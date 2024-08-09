@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ckassung
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - ckassung/cube-of-physics
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
   - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
