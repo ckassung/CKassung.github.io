@@ -303,8 +303,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["filtering", "oranienburg", "physics"] # these tags will be displayed on the front page of your blog
+display_categories: ["teaching", "research", "writing", "coding"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -331,8 +331,10 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
-  group_by: year
+  # query: "@*" # All entries
+  query: "@book[year>=2019] && @proceedings[year>=2019] && @periodical[year>=2019]
+&& @incollection[year>=2019] && @article[year>=2019] && @unpublished[year>=2019 && abbr^=Preprint]" 
+  group_by: year 
   group_order: descending
 
 # Display different badges withs stats for your publications

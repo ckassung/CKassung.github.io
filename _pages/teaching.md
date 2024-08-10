@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Lehrveranstaltungen im Wintersemester 2024/25.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 #### Einführung in die Materielle Kulturforschung (VL) ####
