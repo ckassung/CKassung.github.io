@@ -5,7 +5,7 @@ permalink: /projects/
 description: Forschungs- und Ausstellungsprojekte.
 nav: false
 nav_order: 3
-display_categories: [research, work, fun]
+display_categories: [research, exhibition]
 horizontal: false
 ---
 

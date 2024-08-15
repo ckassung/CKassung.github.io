@@ -4,6 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ckassung/ckassung.github.io
   - ckassung/cube-of-physics
+  - haoess/hidden-kosmos
+  - zettlr/zettlr
+  - alshedivat/al-folio
   - jekyll/jekyll
-  - FortAwesome/Font-Awesome

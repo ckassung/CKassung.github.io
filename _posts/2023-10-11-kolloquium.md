@@ -6,6 +6,7 @@ description: Leitet direkt zur aktuellen Planung des Forschungskolloquiums als P
 tags: culture
 categories: teaching
 redirect: /assets/pdf/kolloquiumsplan.pdf
+published: false
 ---
 
 Leitet direkt zur aktuellen Planung des Forschungskolloquiums als PDF weiter.

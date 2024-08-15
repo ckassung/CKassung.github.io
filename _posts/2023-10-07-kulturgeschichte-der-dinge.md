@@ -6,6 +6,7 @@ description: Leitet direkt zum Vorlesungsplan »Kulturgeschichte der Dinge« als
 tags: culture
 categories: teaching
 redirect: /assets/pdf/vorlesungsplan_kulturgeschichte-der-dinge.pdf
+published: false
 ---
 
 Vorläufiger Vorlesungsplan »Kulturgeschichte der Dinge«

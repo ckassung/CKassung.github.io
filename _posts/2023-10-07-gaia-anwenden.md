@@ -6,6 +6,7 @@ description: Leitet direkt zum Seminarplan »Gaia anwenden« als PDF weiter.
 tags: culture
 categories: teaching
 redirect: /assets/pdf/seminarplan_gaia-anwenden.pdf
+published: false
 ---
 
 Leitet direkt zum Seminarplan »Gaia anwenden« als PDF weiter.
