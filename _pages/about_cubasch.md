@@ -10,8 +10,5 @@ Zusammenhänge zwischen Nahrung, Wissenschaft und Medizin.
 
 In den letzten Jahren arbeitete Alwin Cubasch als Universitätsassistent am
 Institut für Geschichte der Universität Innsbruck und hat einen
-Master-Abschluss der TU Berlin, wo er Wissenschafts- und Technikgeschichte
+Masterabschluss der TU Berlin, wo er Wissenschafts- und Technikgeschichte
 studierte.
-
-Er war Chefredakteur von NTM: Journal of the History of Science, Technology and
-Medicine.
