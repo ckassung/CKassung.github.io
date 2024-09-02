@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Aquatic Mobilities/Littoral Cultures
-date: 2024-08-19 09:29:00
+date: 2024-09-02 10:29:00
 published: true
-description: an example of a blog post with disqus comments
+description: Exploratory Workshop
 tags: filtering
 categories: research
 disqus_comments: true
@@ -57,26 +57,33 @@ Room TBA
 ## Program
 
 9:45&ndash;10:00: 
-- Get Together
 
-10:00&ndash;11:00 
-- Julia Erdogan (HU Berlin): Depths of Danger: Challenges of Shipwreck Salvages and The Perils of Diving.
-- Discussion
+    Get Together
 
-11:00&ndash;12:00
-- Sarah Pickmann (Yale): In Search of Lost Mint Cakes: Tracing Cargo and Mishaps in Expedition Archives.
-- Discussion
+10:00&ndash;11:00:
 
-12:00&ndash;13:00 
-- Lunch Break
+    Julia Erdogan (HU Berlin): Depths of Danger: Challenges of Shipwreck Salvages and The Perils of Diving.
+    Discussion
+
+11:00&ndash;12:00:
+
+    Sarah Pickmann (Yale): In Search of Lost Mint Cakes: Tracing Cargo and Mishaps in Expedition Archives.
+    Discussion
+
+12:00&ndash;13:00: 
+
+    Lunch Break
 
 13:00&ndash;14:00 
-- Julia Zons (Universität Stuttgart): What does Ceuta tell us about Littoral Cultures? Aquatic Mobilities at the »most heavily guarded border of the world«.
-- Discussion
+
+    Julia Zons (Universität Stuttgart): What does Ceuta tell us about Littoral Cultures? Aquatic Mobilities at the »most heavily guarded border of the world«.
+    Discussion
 
 14:00&ndash;15:00
-- Wilko von Hardenberg (HU Berlin): The Adriatic as a Borderspace: Knowledge Mobilities and Environmental Disruptions in a Marginal Sea.
-- Discussion
+
+    Wilko von Hardenberg (HU Berlin): The Adriatic as a Borderspace: Knowledge Mobilities and Environmental Disruptions in a Marginal Sea.
+    Discussion
 
 15:00&ndash;16:00
-- Coffee, Final Discussion, and Future Developments
+
+    Coffee, Final Discussion, and Future Developments
