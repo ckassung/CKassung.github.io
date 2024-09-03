@@ -6,7 +6,7 @@ published: true
 description: Exploratory Workshop
 tags: filtering
 categories: research
-disqus_comments: true
+giscus_comments: true
 related_posts: false
 ---
 
@@ -67,7 +67,7 @@ Room TBA
 
 11:00&ndash;12:00:
 
-    Sarah Pickmann (Yale): In Search of Lost Mint Cakes: Tracing Cargo and Mishaps in Expedition Archives.
+    Sarah Pickmann (Independent Scholar): In Search of Lost Mint Cakes: Tracing Cargo and Mishaps in Expedition Archives.
     Discussion
 
 12:00&ndash;13:00: 
