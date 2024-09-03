@@ -32,11 +32,11 @@ the socio-economic impacts and material manifestations of mobility.
 
 2.7.2024
 
-10:00--16:00
+10:00&ndash;16:00
 
 ## Venue
 
-Cluster of Excellency -- Matters of Activity
+Cluster of Excellency &ndash; Matters of Activity
 
 Humboldt University Berlin
 
@@ -50,36 +50,36 @@ Room 2.20
 
 10:30&ndash;11:00: 
 
-    Get Together & Introduction
+- Get Together & Introduction
 
 11:00&ndash;11:30
 
-    Louisa Niesen (EUI Florenz): Female Travel around 1900 – Perspectives on Material Travel Cultures
-    Discussion
+- Louisa Niesen (EUI Florenz): Female Travel around 1900 &ndash; Perspectives on Material Travel Cultures
+- Discussion
 
 11.30&ndash;12:00
 
-    Thomas N. Kirstein (TU Berlin): Comfort as Material Practice and Travel Technology in the 19th and 20th Century
-    Discussion
+- Thomas N. Kirstein (TU Berlin): Comfort as Material Practice and Travel Technology in the 19th and 20th Century
+- Discussion
 
 12:30&ndash;13:00: 
 
-    Lunch Break
+- Lunch Break
 
 13:00&ndash;13:30:
 
-    Alwin J. Cubasch (HU – Matters of Activity): Raymond Loewy & NASA: Creating Knowledge and Habitability in Space
-    Discussion
+- Alwin J. Cubasch (HU Berlin/Matters of Activity): Raymond Loewy & NASA: Creating Knowledge and Habitability in Space
+- Discussion
 
 13:30&ndash;14:00:
 
-    Christian Kassung (HU Berlin): Cultural Techniques of Travel – What Can Cultural Science Say About Historic Mobilities?
-    Discussion
+- Christian Kassung (HU Berlin): Cultural Techniques of Travel &ndash; What Can Cultural Science Say About Historic Mobilities?
+- Discussion
 
 14:00&ndash;14:30: 
 
-    Coffee Break
+- Coffee Break
 
 14:30&ndash;16:00: 
 
-    Final Discussion and Future Developments
+- Final Discussion and Future Developments
