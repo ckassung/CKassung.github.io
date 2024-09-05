@@ -16,7 +16,7 @@ related_posts: false
     </div>
 </div>
 <div class="caption">
-    Freeing the Ever Given, Suez Canal Authority.
+    Freeing the Ever Given, Suez Canal Authority, 2021.
 </div>
 
 ## Cultural Techniques and Material Cultures at Sea
