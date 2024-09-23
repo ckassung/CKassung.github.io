@@ -46,10 +46,10 @@ target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224794&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag ÜWP</a></abbr>
-{% comment %}
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=121615"
+href="https://moodle.hu-berlin.de/course/view.php?id=129769"
 target="_blank">Moodle-Kurs</a></abbr> 
+{% comment %}
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2024/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 <abbr class="badge"><a
@@ -87,10 +87,10 @@ target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224795&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" 
 target="_blank">Agnes-Eintrag ÜWP</a></abbr>
-{% comment %}
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=121615"
+href="https://moodle.hu-berlin.de/course/view.php?id=129769"
 target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2024/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 <abbr class="badge"><a
@@ -160,10 +160,10 @@ target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224812&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag ÜWP</a></abbr> 
-{% comment %}
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=121616"
+href="https://moodle.hu-berlin.de/course/view.php?id=129771"
 target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2024/gaia-anwenden">Seminarplan</a></abbr>
 {% endcomment %}
