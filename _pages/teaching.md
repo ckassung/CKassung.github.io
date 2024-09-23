@@ -29,16 +29,15 @@ oder aus dem ÜWP-Bereich, die über Agnes eine negative Teilnahmeinformation
 erhalten haben, können die Vorlesung trotzdem besuchen.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
-erworben und zusätzlich eine Modulabschlussprüfung durch eine Take-Home-Klausur
-(4 LP) abgelegt werden. Im ÜWP-Bereich ist es möglich, durch Extraleistungen
-weitere LP nach individueller Absprache (1 LP durch frei gewählte Zusatzlektüre
-mit einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder
-multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt
-jeweils nach den Vorlesungen oder innerhalb der Sprechstunde. Studierende,
-deren ÜWP-Veranstaltung nicht in Agnes eingetragen ist, melden sich bitte mit
-ihrer Matrikelnummer bei Frau Gaedicke
-(christiane.gaedicke[at]rz.hu-berlin.de), damit diese in Agnes nachgetragen
-werden kann.
+erworben und zusätzlich eine Modulabschlussprüfung durch eine Klausur (4 LP)
+abgelegt werden. Im ÜWP-Bereich ist es möglich, durch Extraleistungen weitere
+LP nach individueller Absprache (1 LP durch frei gewählte Zusatzlektüre mit
+einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder multimedialen
+Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt jeweils nach
+den Vorlesungen oder innerhalb der Sprechstunde. Studierende, deren
+ÜWP-Veranstaltung nicht in Agnes eingetragen ist, melden sich bitte mit ihrer
+Matrikelnummer bei Frau Gaedicke (christiane.gaedicke[at]rz.hu-berlin.de),
+damit diese in Agnes nachgetragen werden kann.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223367&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -78,8 +77,8 @@ melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort »Praeludium�
 an.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
-erworben wie auch eine Modulabschlussprüfung durch eine Take-Home-Klausur (4
-LP) abgelegt werden.
+erworben wie auch eine Modulabschlussprüfung durch eine Klausur (4 LP) abgelegt
+werden.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223368&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" 
