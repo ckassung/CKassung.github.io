@@ -85,15 +85,15 @@
       "date": "2008-10-22",
       "location": "Köln, Deutschland",
       "issuer": "Humboldt-Universität zu Berlin",
-      "url": "https://www.hu-berlin.de",
-      "icon": "fa-solid fa-university"
+      "url": "https://brill.com/display/title/41051?language=de",
+      "icon": "fa-solid fa-book"
     },
     {
       "name": "Promotion im Fach Deutsche Philologie",
       "date": "1999-06-291",
       "location": "Köln, Deutschland",
       "issuer": "Universität zu Berlin",
-      "url": "https://www.uni-koeln.de",
+      "url": "https://digi20.digitale-sammlungen.de/de/fs1/object/display/bsb00042564_00001.html",
       "icon": "fa-solid fa-book"
     }
   ],

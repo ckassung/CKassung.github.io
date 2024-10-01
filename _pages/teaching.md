@@ -162,9 +162,9 @@ target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=129771"
 target="_blank">Moodle-Kurs</a></abbr>
-{% comment %}
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2024/gaia-anwenden">Seminarplan</a></abbr>
+href="{{ site.baseurl }}/blog/2024/james-bond">Seminarplan</a></abbr>
+{% comment %}
 {% endcomment %}
 
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />

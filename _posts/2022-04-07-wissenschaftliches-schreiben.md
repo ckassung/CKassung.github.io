@@ -3,8 +3,7 @@ layout: post
 title: Wissenschaftliches Schreiben
 date: 2023-10-04 15:01:00+0100
 description: Eine maximal kurze Einführung ins wissenschaftliche Schreiben.
-tags: writing
-categories: academic-practices
+categories: writing teaching
 featured: true
 ---
 
