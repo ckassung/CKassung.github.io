@@ -29,6 +29,9 @@ synthetischer Ressourcen abhängen. In einigen exemplarischen Studien werden die
 Techniken des Nährens kulturhistorisch hinterfragt, um so neue Ansätze einer
 global funktionierenden Ernährungskultur entwickeln zu können.
 
+Einstieg: <a href="{{ site.baseurl }}/blog/2024/culinarium">Culinarium. Ein fiktives
+Interview zur kulinarischen Lage der Zeit</a>
+
 ***
 
 #### Industrielle Fleischproduktion

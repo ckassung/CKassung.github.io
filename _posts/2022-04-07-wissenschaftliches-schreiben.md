@@ -4,7 +4,7 @@ title: Wissenschaftliches Schreiben
 date: 2023-10-04 15:01:00+0100
 description: Eine maximal kurze Einführung ins wissenschaftliche Schreiben.
 categories: writing teaching
-featured: true
+featured: false
 ---
 
 Jede wissenschaftliche Arbeit, egal ob Hausarbeit oder Abschlußarbeit, entsteht
