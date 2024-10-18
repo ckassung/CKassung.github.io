@@ -52,7 +52,7 @@ Sophienstraße 22a
 
 10178 Berlin
 
-Room TBA
+Room 2.19
 
 ## Program
 
