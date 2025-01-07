@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Analogspeicher in Namibia
+title: Temporäres Objektlabor
 date: 2015-10-12 12:00:00
-description: Bericht von der »International Summer School 2015 in Culture and Computer Science«
+description: Bereicht von der »International Summer School 2015 in Culture and Computer Science«
 tags: analogspeicher
 categories: research 
 featured: false
