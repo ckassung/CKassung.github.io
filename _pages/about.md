@@ -9,8 +9,9 @@ profile:
   image: kassung.jpg
   image_circular: false
   more_info: >
-    <p>HU Berlin</p>
-    <p>Unter den Linden 6</p>
+    Prof. Dr. Chr. Kassung<br />
+    <p>Büroadresse:</p>
+    <p>Georgenstr. 47, R. 4.03</p>
     <p>10099 Berlin</p>
 
 news: true  # includes a list of news items
