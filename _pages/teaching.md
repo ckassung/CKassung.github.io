@@ -61,7 +61,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-VL Di. wöchentlich 14&ndash;16 Uhr, 2091/92, UDL 6<br />
+VL Di. wöchentlich 14&ndash;16 Uhr, R. 2091/92, UDL 6<br />
 BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
 
 ***
@@ -102,7 +102,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Mi. wöchentlich 10&ndash;12 Uhr, 0.07, GEO 47<br />
+SE Mi. wöchentlich 10&ndash;12 Uhr, R. 0.07, GEO 47<br />
 BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
 
 ***
@@ -130,7 +130,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 {% comment %}
 {% endcomment %}
 
-CO Mi. wöchentlich 14&ndash;16 Uhr, 4.30, GEO 47<br />
+CO Mi. wöchentlich 14&ndash;16 Uhr, R. 4.30, GEO 47<br />
 BA-Modul 9: Abschlussmodul
 
 ***
@@ -172,7 +172,7 @@ href="{{ site.baseurl }}/blog/2024/james-bond">Seminarplan</a></abbr>
 {% comment %}
 {% endcomment %}
 
-SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
+SE Do. wöchentlich 12&ndash;14 Uhr, R. 0.07, GEO 47<br />
 MA-Modul 3: Kulturen des Wissens
 
 ***
@@ -199,7 +199,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
-CO Mo. 14tgl. 14&ndash;16 Uhr, 4.30, GEO 47
+CO Mo. 14tgl. 14&ndash;16 Uhr, R. 4.30, GEO 47
 
 <br />&nbsp;<br />
 
@@ -257,7 +257,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Mi. wöchentlich 10--12 Uhr<br />
+SE Mi. wöchentlich 10--12 Uhr, R. 0.07, GEO 47<br />
 BA Kuwi Modul 1: Texte -- Bilder -- Dinge
 
 ***
@@ -314,7 +314,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Di. wöchentlich 14--16 Uhr<br />
+SE Di. wöchentlich 14--16 Uhr, R. 0.07, GEO 47<br />
 BA Kuwi Modul 4: Wissen -- Strukturen -- Medien
 
 ***
@@ -345,7 +345,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-CO Mi. wöchentlich 14--16 Uhr<br />
+CO Mi. wöchentlich 14--16 Uhr, R. 4.30, GEO 47<br />
 BA Kuwi Modul 9: Abschlussmodul
 
 ***
@@ -401,7 +401,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Do. wöchentlich 14--16 Uhr<br />
+SE Do. wöchentlich 14--16 Uhr, TU-Berlin<br />
 MA Kuwi Modul 3: Kulturen des Wissens
 
 ***
@@ -414,8 +414,7 @@ Gegenstandsprobleme, bereits geschriebene Entwürfe oder Kapitel aus den eigenen
 Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
-möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 28.4.2025 vorgesehen.
+möglich. Als Termine sind vorgesehen: 12.5., 26.5., 23.6., 7.7. und 14.7.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223373&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -428,7 +427,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
-CO Mo. 14tgl. 14--16 Uhr<br />
+CO Mo. 14tgl. 14--16 Uhr, R. 4.30, GEO 47<br />
 MA Kuwi Modul 9: Abschlussmodul
 
 {% endtab %}
