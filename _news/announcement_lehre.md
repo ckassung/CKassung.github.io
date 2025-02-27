@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-02-17 18:11:00-0400
+date: 2025-02-27 18:11:00-0400
 inline: true
 related_posts: false
 ---
@@ -9,7 +9,6 @@ Aufgrund einer Erkrankung im Sekretariat erfolgt die Anmeldung zu Sprechstunden
 bis auf Weiteres per Eintrag auf die an meiner Bürotüre aushängenden Listen.
 Die nächsten Sprechstundentermine sind:
 
-- Dienstag, 25. Februar, 12&ndash;14 Uhr
 - Dienstag, 25. März, 14&ndash;16 Uhr
 
 Eine Voranmeldung per E-Mail ist nicht möglich. Für formale Fragen zur Lehre
