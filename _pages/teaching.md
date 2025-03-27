@@ -108,10 +108,10 @@ target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=231038&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag ÜWP</a></abbr>
-{% comment %}
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=129769"
+href="https://moodle.hu-berlin.de/course/view.php?id=113327"
 target="_blank">Moodle-Kurs</a></abbr> 
+{% comment %}
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2024/vorlesung">Vorlesungsplan</a></abbr>
 <abbr class="badge"><a

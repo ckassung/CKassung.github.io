@@ -1,13 +1,14 @@
 ---
 layout: post
-date: 2025-03-23 18:11:00-0400
+date: 2025-03-27 18:11:00-0400
 inline: true
 related_posts: false
 ---
 
 Aufgrund einer Erkrankung im Sekretariat erfolgt die Anmeldung zu Sprechstunden
 bis auf Weiteres per Eintrag auf die an meiner Bürotüre aushängenden Listen.
-Eine Voranmeldung per E-Mail ist nicht möglich.
+Eine Voranmeldung per E-Mail ist nicht möglich, bitte tragen Sie sich vor Ort
+ein, um Wartezeiten zu vermeiden.
 
 Die letzte Sprechstunde in der vorlesungsfreien Zeit ist:
 
