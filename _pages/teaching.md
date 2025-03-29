@@ -171,7 +171,7 @@ Sommersemester als Gastwissenschaftler situiert ist, und findet an der TU
 Berlin statt.
 
 *Teilnahme:* Der Besuch dieses Seminars setzt keine Studienleistungen voraus.
-Das Seminar findet als Präsenzveranstaltung statt und beginnt am 17.4.2025.
+Das Seminar findet als Präsenzveranstaltung statt und beginnt am 23.4.2025.
 Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
 »Etude« an.
 
