@@ -206,7 +206,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Do. wöchentlich 14--16 Uhr, TU-Berlin<br />
+SE Do. wöchentlich 14--16 Uhr, TU-Berlin, H 2051, Straße des 17. Juni 135<br />
 MA Kuwi Modul 3: Kulturen des Wissens
 
 ***
