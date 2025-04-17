@@ -14,22 +14,21 @@ tabs: true
 
 #### Urbane Zukünfte und Vergangenheiten. Berlin im Film (SE)
 
-Die Geschichte der Metropole spiegelt sich im Medium des Kinos. In besonderem
-Maße gilt dies auch für Berlin. Zu Beginn des 20. Jahrhunderts etablierte sich
-Berlin als filmische Zukunftsmetropole. Bereits frühe Stummfilme generierten
-mediale Stadtbilder und konstruierten einen Mythos Berlin. Die Stadt war und
-ist dabei nicht nur Schauplatz und Kulisse. Vielmehr wurde sie selbst zur
-Hauptdarstellerin und Figur, in der Zukunftsentwürfe überhöht, kritisiert,
-fetischisiert oder als gescheitert dargestellt werden.
-
-Das Seminar wird zunächst in die Grundlagen der kulturwissenschaftlichen
-Filmanalyse einführen. Darauf aufbauend, werden ausgewählte Berlin-Filme
-exemplarisch und mit Blick auf die in ihnen reflektierten historischen,
-gesellschaftspolitischen und kulturellen Transformationsprozesse untersucht.
-Die Filmauswahl beinhaltet kanonische Filme wie »Berlin -- Die Symphonie der
-Großstadt« (1927), »Menschen am Sonntag« (1930) bis hin zu filmischen
-Gegenwartskonstruktionen wie »Die Fremde (2010)«, »Berlin Alexanderplatz«
-(2020) oder »Ich bin dein Mensch« (2021).
+Städte sind Zukunftslabore, was besonders für Metropolen und insbesondere für
+Berlin gilt. Aufgrund der langen Geschichte Berlins als filmische
+Zukunftsmetropole eignet sich dieser Gegenstand hervorragend zur Diskussion
+vergangener Zukünfte in Anlehnung an Kosellecks Theorie von Erfahrungs- und
+Erwartungsraum. Das Seminar wird dabei einen Bogen spannen von den frühen
+Stummfilmen bis hin zu aktuellen Produktionen, in denen Berlin als
+Hauptdarstellerin von Zukunftsentwürfen überhöht, kritisiert, fetischisiert
+oder als gescheitert inszeniert wird. Konkrete Untersuchungsperspektiven sind
+Infrastrukturen, Mobilität, soziale Entwürfe, aber auch Architektur, Licht und
+Sound der Stadt. Das Seminar wird zunächst in die Grundlagen der
+kulturwissenschaftlichen Filmanalyse einführen und sich anschließend mit
+Kosellecks Geschichtstheorie beschäftigen. Darauf aufbauend, werden ausgewählte
+Berlin-Filme exemplarisch und mit Blick auf die in ihnen reflektierten
+historischen, gesellschaftspolitischen und kulturellen Transformationsprozesse
+untersucht.
 
 *Teilnahme:* Der Besuch dieses Seminars setzt keine Studienleistungen voraus.
 Das Seminar findet als Präsenzveranstaltung statt und beginnt am 16.4.2025. Zur
