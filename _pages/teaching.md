@@ -132,7 +132,8 @@ unterstützen und ein Forum für den Austausch bereitzustellen.
 
 *Teilnahme:* Der Besuch des Kolloquiums setzt den erfolgreichen Abschluss des
 Einführungsmoduls sowie der Module 1--4 voraus. Das Kolloquium findet als
-Präsenzveranstaltung statt und beginnt am 16.4.2025.
+Präsenzveranstaltung statt und beginnt am 16.4.2025. Zur Teilnahme melden Sie
+sich bitte im zugehörigen Moodle-Kurs mit dem Passwort »Impromptu« an.
 
 *Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3 LP) erworben werden.
