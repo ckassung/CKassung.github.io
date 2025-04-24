@@ -108,7 +108,7 @@ target="_blank">Agnes-Eintrag</a></abbr>
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=231038&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=113327"
+href="https://moodle.hu-berlin.de/course/view.php?id=133276"
 target="_blank">Moodle-Kurs</a></abbr> 
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2025/turns">Seminarplan</a></abbr>
