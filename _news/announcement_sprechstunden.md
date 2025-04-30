@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2025-03-28 18:11:00-0400
+date: 2025-04-60 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
 Aufgrund einer Erkrankung im Sekretariat erfolgt die Anmeldung zu Sprechstunden
 bis auf Weiteres per Eintrag auf die an meiner Bürotüre aushängenden Listen.
-Während der Vorlesungszeit finden die Sprechstunden wöchentlich <b>mittwochs
+Während der Vorlesungszeit finden die Sprechstunden wöchentlich <b>dienstags
 von 12.30&ndash;14 Uhr</b> statt. Eine Voranmeldung per E-Mail ist nicht
 möglich, bitte tragen Sie sich vor Ort ein, um Wartezeiten zu vermeiden.
 
