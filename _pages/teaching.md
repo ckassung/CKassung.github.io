@@ -273,6 +273,23 @@ href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruef
 target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
 bereitgestellt.
 
+{% comment %}
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=230177&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=231006&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=133420"
+target="_blank">Moodle-Kurs</a></abbr> 
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2025/berlin-im-film">Seminarplan</a></abbr>
+<abbr class="badge"><a
+href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
+target="_blank">Zoom-Link</a></abbr>
+{% endcomment %}
+
 VL Di. wöchentlich 14--16 Uhr<br />
 BA-Modul 1: Texte -- Bilder -- Dinge
 
@@ -281,16 +298,18 @@ BA-Modul 1: Texte -- Bilder -- Dinge
 ## Von der Kybernetik zur KI. Zur Geschichte und Theorie der Maschinen (SE)
 
 Allen Angriffen der Künstlichen Intelligenz auf die (vermeintliche) menschliche
-Souveränität zum Trotz zählt die Bedrohung durch die Maschine (bisher) nicht zu
-den zentralen Kränkungen der Menschheit: Man stelle sich vor, Sam Altman hätte
-sich à la Freud 1917 (»Eine Schwierigkeit der Psychoanalyse«) vor laufender You
-Tube-Kamera in eine Reihe mit Kopernikus und Darwin gestellt? Womöglich erklärt
-sich diese merkwürdige Revolutionslosigkeit der Computerrevolution aus der
-langen Geschichte des eng miteinander verwobenen Wechselverhältnisses von
-Mensch und Maschine bzw. Technik. In diesem Seminar wollen wir den *homo faber*
-mit seinen Ängsten, Mythen und Versprechungen von der Kybernetik zur KI
-rekonstruieren, d.h. eine Genealogie des heutigen Maschinenverständnisses seit
-Maxwells Fliehkraftregler (»On Governors«, 1868) erarbeiten und diskutieren.
+Souveränität zum Trotz ist die Bedrohung durch die Maschine (bisher) nicht in
+die lange Reihe der Kränkungen der Menschheit seit der Kopernikanischen
+Revolution eingereiht worden. Und dies, obwohl selbst zentrale Akteure wie Sam
+Altman die »AI Anxiety« befördern -- womöglich jedoch aus eher wirtschaftlichen
+Erwägungen heraus --, während zugleich die alltäglichen User sich vollkommen
+selbstverständlich der neuen Werkzeuge bedienen. Womöglich erklärt sich diese
+merkwürdige Revolutionsambivalenz der Computerrevolution aus der langen
+Geschichte des eng miteinander verwobenen Wechselverhältnisses von Mensch und
+Maschine bzw. Technik. In diesem Seminar wollen wir den *homo faber* mit seinen
+Ängsten, Mythen und Versprechungen von der Kybernetik zur KI rekonstruieren,
+d.h. eine Genealogie des heutigen Maschinenverständnisses seit Maxwells
+Fliehkraftregler (»On Governors«, 1868) erarbeiten und diskutieren.
 
 *Teilnahme:* Der Besuch dieses Seminars setzt die Kenntnis der Inhalte des
 Einführungsmoduls voraus. Das Seminar findet als Präsenzveranstaltung statt
