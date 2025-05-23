@@ -237,9 +237,113 @@ MA Kuwi Modul 9: Abschlussmodul
 
 {% endtab %}
 
+
 {% tab semester Wintersemester 2025/26 %}
 
-Die Lehrplanung für das kommende Wintersemester erfolgt im Juli.
+## Einführung in die Kulturgeschichte (VL)
+
+Kulturgeschichte erhebt den Anspruch eines *anderen* Blicks auf die
+Vergangenheit. Sie lenkt den Blick auf die zunehmend komplexer werdenden
+›Umwelten‹ des Menschen, um von hier aus die Frage nach den Möglichkeiten (und
+Unmöglichkeiten) seines -- individuellen wie kollektiven -- Handelns
+aufzuwerfen. Die Vorlesung widmet sich ausgewählten historischen Akteuren im
+Kontext übergeordneter Strukturen. Sie geht also anhand einer Reihe
+unterschiedlicher ›Geschichten‹ den jeweiligen Wechselverhältnissen von Mikro-
+und Makroperspektive nach. Zugleich thematisiert sie, dass Kulturgeschichte aus
+einer kulturwissenschaftlichen Perspektive ihre eigene Theorie und Geschichte
+besitzt.
+
+*Teilnahme:* Der Besuch dieser Einführungsvorlesung setzt keine
+Studienleistungen voraus. Die Vorlesung findet als Präsenzveranstaltung statt
+und beginnt am 14.10.2025. Zur Teilnahme melden Sie sich bitte im zugehörigen
+Moodle-Kurs mit dem Passwort »Praeludium« an.
+
+*Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
+erworben und zusätzlich eine Modulabschlussprüfung durch eine Klausur (4 LP)
+abgelegt werden. Im ÜWP-Bereich ist es möglich, durch Extraleistungen weitere
+LP nach individueller Absprache (1 LP durch frei gewählte Zusatzlektüre mit
+einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder multimedialen
+Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt jeweils nach
+den Vorlesungen oder innerhalb der Sprechstunde. 
+
+*Prüfungszeiträume:* Die Klausur im ersten Prüfungszeitraum findet am 10.2.2026
+zur gewohnten Vorlesungszeit statt. Alle weiterführenden Informationen werden
+vom <a
+href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruefungsbueroarchkuwigender"
+target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
+bereitgestellt.
+
+VL Di. wöchentlich 14--16 Uhr<br />
+BA-Modul 1: Texte -- Bilder -- Dinge
+
+***
+
+## Von der Kybernetik zur KI. Zur Geschichte und Theorie der Maschinen (SE)
+
+Allen Angriffen der Künstlichen Intelligenz auf die (vermeintliche) menschliche
+Souveränität zum Trotz zählt die Bedrohung durch die Maschine (bisher) nicht zu
+den zentralen Kränkungen der Menschheit: Man stelle sich vor, Sam Altman hätte
+sich à la Freud 1917 (»Eine Schwierigkeit der Psychoanalyse«) vor laufender You
+Tube-Kamera in eine Reihe mit Kopernikus und Darwin gestellt? Womöglich erklärt
+sich diese merkwürdige Revolutionslosigkeit der Computerrevolution aus der
+langen Geschichte des eng miteinander verwobenen Wechselverhältnisses von
+Mensch und Maschine bzw. Technik. In diesem Seminar wollen wir den *homo faber*
+mit seinen Ängsten, Mythen und Versprechungen von der Kybernetik zur KI
+rekonstruieren, d.h. eine Genealogie des heutigen Maschinenverständnisses seit
+Maxwells Fliehkraftregler (»On Governors«, 1868) erarbeiten und diskutieren.
+
+*Teilnahme:* Der Besuch dieses Seminars setzt die Kenntnis der Inhalte des
+Einführungsmoduls voraus. Das Seminar findet als Präsenzveranstaltung statt
+und beginnt am 15.10.2025. Zur Teilnahme melden Sie sich bitte im zugehörigen
+Moodle-Kurs mit dem Passwort »Ballade« an.
+
+*Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme und Übernahme
+eines Referats (3 LP) erworben wie auch eine Modulabschlussprüfung durch eine
+Hausarbeit (4 LP) abgelegt werden.
+
+{% comment %}
+*Prüfungszeiträume:* Im ersten Prüfungszeitraum sind die Hausarbeiten bis zum
+31.3.2026 abzugeben, im zweiten Prüfungszeitraum bis zum 26.7.2026.
+{% endcomment %}
+
+SE Mi. wöchentlich 10--12 Uhr<br />
+BA Kuwi Modul 7: Vertiefung Wissen -- Strukturen -- Medien
+
+***
+
+## Bachelor-Kolloquium (CO)
+
+Das Bachelor-Kolloquium begleitet die Konzeption und das Verfassen der ersten
+wissenschaftlichen Abschlussarbeit. Ziel ist es, Studierende bei der
+Themenfindung, Themeneingrenzung und Ausarbeitung ihrer Bachelorarbeiten zu
+unterstützen und ein Forum für den Austausch bereitzustellen.
+
+*Teilnahme:* Der Besuch des Kolloquiums setzt den erfolgreichen Abschluss des
+Einführungsmoduls sowie der Module 1--4 voraus. Das Kolloquium findet als
+Präsenzveranstaltung statt und beginnt am 15.10.2025.
+
+*Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
+(3 LP) erworben werden.
+
+CO Mi. wöchentlich 14--16 Uhr<br />
+BA Kuwi Modul 9: Abschlussmodul
+
+***
+
+## Forschungskolloquium (FK)
+
+Das Kolloquium richtet sich an Masterstudierende und Promovierende. Gemeinsam
+diskutiert werden mögliche Forschungsfragen und -strategien, Theorie- oder
+Gegenstandsprobleme, bereits geschriebene Entwürfe oder Kapitel aus den eigenen
+Arbeiten oder auch wichtige Grundlagenliteratur.
+
+*Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
+möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
+Semesters ist der 20.10.2026 vorgesehen.
+
+CO Mo. 14tgl. 14--16 Uhr
+MA Kuwi Modul 9: Abschlussmodul
+
 
 {% endtab %}
 
