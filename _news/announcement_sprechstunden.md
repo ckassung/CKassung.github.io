@@ -8,10 +8,13 @@ related_posts: false
 Aufgrund einer Erkrankung im Sekretariat erfolgt die Anmeldung zu Sprechstunden
 bis auf Weiteres per Eintrag auf die an meiner Bürotüre aushängenden Listen.
 Während der Vorlesungszeit finden die Sprechstunden wöchentlich <b>dienstags
-von 12.30&ndash;14 Uhr</b> statt. Eine Voranmeldung per E-Mail ist nicht
-möglich, bitte tragen Sie sich vor Ort ein, um Wartezeiten zu vermeiden.
+von 12.30&ndash;14 Uhr</b> statt. Für die vorlesungsfreie Zeit sind zunächst
+als Termine der 23. Juli von 14&ndash;16 Uhr sowie der 12. August von
+14&ndaash;16 Uhr vorgesehen.
 
-Für formale Fragen zur Lehre können Sie sich gerne per E-Mail an meine
-Hilfkraft <a href="mailto:patrick.mackens.1@hu-berlin.de">Patrick Mackens</a>
-wenden. Aktuelle Informationen zum laufenden Sommersemester finden Sie <a
-href="{{ site.baseurl }}/teaching">online</a> auf dieser Website.
+Eine Voranmeldung per E-Mail ist nicht möglich, bitte tragen Sie sich vor Ort
+ein, um Wartezeiten zu vermeiden. Für formale Fragen zur Lehre können Sie sich
+gerne per E-Mail an meine Hilfkraft <a
+href="mailto:patrick.mackens.1@hu-berlin.de">Patrick Mackens</a> wenden.
+Aktuelle Informationen zum laufenden Sommersemester finden Sie <a href="{{
+site.baseurl }}/teaching">online</a> auf dieser Website.
