@@ -341,6 +341,16 @@ unterstützen und ein Forum für den Austausch bereitzustellen.
 Einführungsmoduls sowie der Module 1--4 voraus. Das Kolloquium findet als
 Präsenzveranstaltung statt und beginnt am 15.10.2025.
 
+Die Betreuung der Bachelorabschlussarbeiten findet ab dem Wintersemester
+2025/26 grundsätzlich im Rahmen der angebotenen Kolloquien statt. Die
+Einschreibung in die Kolloquien erfolgt durch eine Vorabregistrierung über den
+Moodle-Kurs
+[https://moodle.hu-berlin.de/course/section.php?id=1263716](https://moodle.hu-berlin.de/course/section.php?id=1263716)
+mit dem Kurs-Schlüssel »Finale«. Bitte tragen Sie sich hier bis zum 8.
+September mit Ihren Präferenzen für die Erst- und Zweitbetreuung sowie -- falls
+bereits vorhanden -- möglichen Themenideen ein. Sie erhalten dann Rückmeldung
+zum 1. Oktober über das Ihnen zugewiesene Kolloquium.
+
 *Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3 LP) erworben werden.
 
