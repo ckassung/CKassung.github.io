@@ -4,7 +4,7 @@ title: Techniken des Nährens
 description: Beiträge zur Kulturgeschichte von Nahrungsasymmetrien, seit 2015
 img: /assets/img/naehren-01.jpg
 category: research
-importance: 3
+importance: 16
 ---
 
 <div class="row">

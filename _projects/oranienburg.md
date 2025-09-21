@@ -3,7 +3,7 @@ layout: page
 title: Filtering Oranienburg
 description: Erforschung der Geschichte einer Stadt als radioaktive Industrielandschaft im Rahmen des Exzellenzclusters »Matters of Activity«, seit 2022
 img: assets/img/oranienburg-01.jpg
-importance: 1
+importance: 12
 category: research
 related_publications: true
 ---

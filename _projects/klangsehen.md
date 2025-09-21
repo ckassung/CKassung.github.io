@@ -4,7 +4,7 @@ title: Klangsehen
 description: Ausstellung im Jacob-und-Wilhelm-Grimm-Zentrum, 2015
 img: /assets/img/klangsehen-02.jpg
 category: exhibition
-importance: 2
+importance: 14
 ---
 
 <div class="row">

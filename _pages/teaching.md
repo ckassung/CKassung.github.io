@@ -281,7 +281,7 @@ target="_blank">Agnes-Eintrag</a></abbr>
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=231006&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 <abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=133420"
+href="https://moodle.hu-berlin.de/course/view.php?id=136788"
 target="_blank">Moodle-Kurs</a></abbr> 
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2025/berlin-im-film">Seminarplan</a></abbr>
@@ -323,6 +323,23 @@ Hausarbeit (4 LP) abgelegt werden.
 {% comment %}
 *Prüfungszeiträume:* Im ersten Prüfungszeitraum sind die Hausarbeiten bis zum
 31.3.2026 abzugeben, im zweiten Prüfungszeitraum bis zum 26.7.2026.
+{% endcomment %}
+
+{% comment %}
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=230177&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=231006&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=136799"
+target="_blank">Moodle-Kurs</a></abbr> 
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2025/berlin-im-film">Seminarplan</a></abbr>
+<abbr class="badge"><a
+href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
+target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
 SE Mi. wöchentlich 10--12 Uhr<br />

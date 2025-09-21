@@ -4,7 +4,7 @@ title: Vortex
 description: Eine Kultur- und Wissensgeschichte des Wirbels, seit 2023
 img: /assets/img/vortex-01.jpg
 category: research
-importance: 2
+importance: 11
 ---
 
 <div class="row">

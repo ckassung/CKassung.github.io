@@ -4,7 +4,7 @@ title: Cube of Physics
 description: Installation im Lise-Meitner-Haus, 2018 
 img: /assets/img/cop-02.jpg
 category: exhibition
-importance: 1
+importance: 13
 ---
 
 <div class="row">

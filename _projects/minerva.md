@@ -4,7 +4,7 @@ title: Minerva
 description: Medienstationen im Märkischen Museum, 2015
 img: /assets/img/minerva-01.jpg
 category: exhibition
-importance: 4
+importance: 15
 ---
 
 <div class="row">

@@ -4,7 +4,7 @@ title: Synchron
 description: Ausstellung im Pergamon-Palais, 2012
 img: /assets/img/synchron-03.jpg
 category: exhibition
-importance: 3
+importance: 18
 ---
 
 <div class="row">

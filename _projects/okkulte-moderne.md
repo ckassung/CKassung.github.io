@@ -4,7 +4,7 @@ title: Okkulte Moderne
 description: Beiträge zur nichthegemonialen Innovation, seit 2011
 img: /assets/img/okkulte-moderne-01.jpg
 category: research
-importance: 4
+importance: 19
 ---
 
 <div class="row">
