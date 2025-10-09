@@ -171,8 +171,9 @@ Gegenstandsprobleme, bereits geschriebene Entwürfe oder Kapitel aus den eigenen
 Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
-möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 20.10.2026 vorgesehen.
+möglich. Das Kolloquium wird in diesem Semester in Form von zwei
+Blockveranstaltungen durchgeführt. Bitte melden Sie sich persönlich in der
+Sprechstunde zur Anmeldung für das Kolloquium und den zugehörigen Moodle-Kurs.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=234924&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -415,7 +416,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
-CO Mo. 14tgl. 14--16 Uhr, R. 4.30, GEO 47<br />
+CO Blockveranstaltung, R. N.N., GEO 47<br />
 MA Kuwi Modul 9: Abschlussmodul
 {% endcomment %}
 
