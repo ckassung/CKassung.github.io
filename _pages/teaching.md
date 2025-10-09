@@ -109,9 +109,9 @@ target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=136799"
 target="_blank">Moodle-Kurs</a></abbr> 
-{% comment %}
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2025/berlin-im-film">Seminarplan</a></abbr>
+href="{{ site.baseurl }}/blog/2025/kybernetik">Vorläufiger Seminarplan</a></abbr>
+{% comment %}
 <abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
