@@ -63,7 +63,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-VL Di. wöchentlich 14--16 Uhr<br />
+VL Di. wöchentlich 14--16 Uhr, UDL 6, Raum 2091<br />
 BA-Modul 1: Texte -- Bilder -- Dinge
 
 ***
@@ -117,7 +117,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Mi. wöchentlich 10--12 Uhr<br />
+SE Mi. wöchentlich 10--12 Uhr, GEO 47, Raum 0.07<br />
 BA Kuwi Modul 7: Vertiefung Wissen -- Strukturen -- Medien
 
 ***
@@ -158,7 +158,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-CO Mi. wöchentlich 14--16 Uhr<br />
+CO Mi. wöchentlich 14--16 Uhr, GEO 47, Raum 4.30<br />
 BA Kuwi Modul 9: Abschlussmodul
 
 ***
@@ -172,8 +172,9 @@ Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Das Kolloquium wird in diesem Semester in Form von zwei
-Blockveranstaltungen durchgeführt. Bitte melden Sie sich persönlich in der
-Sprechstunde zur Anmeldung für das Kolloquium und den zugehörigen Moodle-Kurs.
+Blockveranstaltungen durchgeführt. Bitte vereinbaren Sie einen persönlichen
+Sprechstundentermin zur Anmeldung für das Kolloquium und den zugehörigen
+Moodle-Kurs.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=234924&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -186,7 +187,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
-CO Mo. 14tgl. 14--16 Uhr<br />
+CO Blockveranstaltung, GEO 47, Raum N.N.<br />
 MA Kuwi Modul 9: Abschlussmodul
 
 {% endtab %}
@@ -245,7 +246,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Mi. wöchentlich 10--12 Uhr, R. 0.07, GEO 47<br />
+SE Mi. wöchentlich 10--12 Uhr, GEO 47, Raum 0.07<br />
 BA Kuwi Modul 1: Texte -- Bilder -- Dinge
 
 ***
@@ -302,7 +303,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-SE Di. wöchentlich 14--16 Uhr, R. 0.07, GEO 47<br />
+SE Di. wöchentlich 14--16 Uhr, GEO 47, Raum 0.07<br />
 BA Kuwi Modul 4: Wissen -- Strukturen -- Medien
 
 ***
@@ -334,7 +335,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-CO Mi. wöchentlich 14--16 Uhr, R. 4.30, GEO 47<br />
+CO Mi. wöchentlich 14--16 Uhr, GEO 47, Raum 4.30<br />
 BA Kuwi Modul 9: Abschlussmodul
 
 ***
@@ -416,7 +417,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
-CO Blockveranstaltung, R. N.N., GEO 47<br />
+CO Blockveranstaltung, GEO 47, Raum N.N.<br />
 MA Kuwi Modul 9: Abschlussmodul
 {% endcomment %}
 
