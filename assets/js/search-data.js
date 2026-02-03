@@ -496,16 +496,41 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-forschungskolloquium-co",
+          title: 'Forschungskolloquium (CO)',
+          description: "Begleitendes Kolloquium für Masterarbeiten und Promotionen.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/bachelorkolloquium/";
+            },},{id: "teachings-mediengeschichte-berlins-se",
+          title: 'Mediengeschichte Berlins (SE)',
+          description: "Die Geschichte Berlins als Mediengeschichte seit Mitte des 18. Jahrhunderts in Theorietexten und Standortexkursionen.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/dark-side-of-the-moon/";
+            },},{id: "teachings-fundus-und-unauffindbares-medienarchäologisches-sammeln-in-globaler-perspektive-rvl",
+          title: 'Fundus und Unauffindbares. Medienarchäologisches Sammeln in globaler Perspektive (RVL)',
+          description: "Ringvorlesung zur Gegenwart und Zukunft des medienarchäologischen Fundus&#39;.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/einfuehrung-kulturgeschichte/";
+            },},{id: "teachings-lektürekurs-kulturtechnikforschung-se",
+          title: 'Lektürekurs Kulturtechnikforschung (SE)',
+          description: "Einführung in die wichtigsten Grundlagentexte der Kulturtechnikforschung.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/forschungskolloquium/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/fundus-und-unauffindbares/";
+            },},{id: "teachings-fundus-und-unauffindbares-medienarchäologisches-sammeln-in-globaler-perspektive-rvl",
+          title: 'Fundus und Unauffindbares. Medienarchäologisches Sammeln in globaler Perspektive (RVL)',
+          description: "Ringvorlesung zur Gegenwart und Zukunft des medienarchäologischen Fundus&#39;.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/lektuerekurs-kulturtechnikforschung/";
+            },},{id: "teachings-lektürekurs-kulturtechnikforschung-se",
+          title: 'Lektürekurs Kulturtechnikforschung (SE)',
+          description: "Einführung in die wichtigsten Grundlagentexte der Kulturtechnikforschung.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mediengeschichte-berlins/";
             },},{
         id: 'social-cv',
         title: 'CV',
