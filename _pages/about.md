@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.hu-berlin.de/" target="_blank">Humboldt-Universität zu Berlin</a>. <a href="https://www.culture.hu-berlin.de/" target="_blank">Institut für Kulturwissenschaft</a>.
+subtitle: <a href="https://www.hu-berlin.de/" target="_blank">Humboldt-Universität zu Berlin</a>. <a href="https://www.culture.hu-berlin.de/" target="_blank">Institut für Kulturwissenschaft und Medienwissenschaft</a>.
 
 profile:
   align: right
   image: kassung.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Prof. Dr. Chr. Kassung<br />
-    <p>Büroadresse:</p>
-    <p>Georgenstr. 47, R. 4.03</p>
+    <p>Georgenstr. 47</p>
+    <p>Raum 4.03</p>
     <p>1099 Berlin</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<b>Die Website wird derzeit aktualisiert.</b>
+<b>Die Website wird aktualisiert und enthält derzeit an vielen Stellen
+Vorlagentexte.</b>
 
 Die Professur »Kulturtechniken und Wissensgeschichte« verbindet die Erforschung
 der Kulturtechniken als einem impliziten, sowohl Praktiken wie Dinge

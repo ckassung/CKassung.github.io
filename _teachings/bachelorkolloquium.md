@@ -1,31 +1,34 @@
 ---
 layout: course
-title: Forschungskolloquium (CO)
-description: Begleitendes Kolloquium für Masterarbeiten und Promotionen.
-instructor: Prof. Kassung/Prof. Tkaczyk
+title: Bachelorkolloquium (CO)
+description: Begleitendes Kolloquium für Bachelorarbeiten.
+instructor: Prof. Kassung
 year: 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
-time: Fr. Blockveranstaltung n.V.
-course_id: forschungskolloquium
+time: Mi. wöchentlich 14--16 Uhr
+course_id: bachelorkolloquium
 schedule:
 ---
 
 ## Kurzbeschreibung
 
-Das Kolloquium richtet sich an Masterstudierende und Promovierende und wird in
-Kooperation mit der und wird in Kooperation mit der Medienwissenschaft, Prof.
-Tkaczyk, durchgeführt. Gemeinsam diskutiert werden mögliche Forschungsfragen
-und -strategien, Theorie- oder Gegenstandsprobleme, bereits geschriebene
-Entwürfe oder Kapitel aus den eigenen Arbeiten oder auch wichtige
-Grundlagenliteratur.
+Das Bachelor-Kolloquium begleitet die Konzeption und das Verfassen der ersten
+wissenschaftlichen Abschlussarbeit. Ziel ist es, Studierende bei der
+Themenfindung, Themeneingrenzung und Ausarbeitung ihrer Bachelorarbeiten zu
+unterstützen und ein Forum für den Austausch bereitzustellen.
 
 ## Teilnahme
 
-Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
-möglich. Erwartet wird mindestens einmal pro Semester ein Bericht über den
-Arbeitsstand des Master- bzw. Promotionsprojekts.
+Der Besuch des Kolloquiums setzt den erfolgreichen Abschluss des
+Einführungsmoduls sowie der Module 1--4 voraus. Das Kolloquium findet als
+Präsenzveranstaltung statt und beginnt am 15.4.2026.
 
 ## Modulzuordnung
 
 MA Kuwi Modul 9: Abschlussmodul
+
+## Prüfungen
+
+Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme (3 LP)
+erworben werden.

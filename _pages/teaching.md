@@ -2,13 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Laufende und geplante Lehrveranstaltungen. 
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
+# tabs: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Auf dieser Seite finden Sie eine Übersicht über alle von mir angebotenen
+Lehrveranstaltungen mit detaillierten Zeitplänen, Materialien und Ressourcen.
+Sie können Ihre Kurse nach Jahr, Semester oder Thema filtern. Die Informationen
+werden laufend aktualisiert. 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
