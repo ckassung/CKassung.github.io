@@ -9,8 +9,8 @@ Dissertation mit dem Titel »Avantgarde der Computernutzung.
 Hackerkulturen in der Bundesrepublik und DDR« ab. Anschließend forschte 
 sie zu Computer Integrated Manufacturing sowie zur Telearbeit.
 
-Neben der Digitalgeschichte befasst sie sich mit der Beziehung von 
-Mensch-Technik-Umwelt und arbeitet in ihrem aktuellen Projekt an einer 
-Kulturgeschichte des Gerätetauchens seit dem 19. Jahrhundert. Seit 
-Oktober 2024 ist sie Wissenschaftliche Mitarbeiterin am Institut für 
-Kulturwissenschaft der Humboldt-Universität zu Berlin.
+Neben der Digitalgeschichte befasst sie sich mit der Beziehung von
+Mensch-Technik-Umwelt und arbeitet in ihrem aktuellen Projekt an einer
+Kulturgeschichte des Gerätetauchens seit dem 19. Jahrhundert. Seit Oktober 2024
+ist sie Wissenschaftliche Mitarbeiterin am Institut für Kulturwissenschaft und
+Medienwissenschaft der Humboldt-Universität zu Berlin.
