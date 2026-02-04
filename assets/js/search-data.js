@@ -494,7 +494,7 @@ ninja.data = [{
               window.location.href = "/teachings/dark-side-of-the-moon/";
             },},{id: "teachings-einführung-in-die-kulturgeschichte-vl",
           title: 'Einführung in die Kulturgeschichte (VL)',
-          description: "Obligatorische Einführungsvorlesung in die Geschichte der Kulturgeschichte.",
+          description: "Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der Leitfrage, wie das Zusammenspiel von Praktiken, Dingen und Wissen das Verhältnis von Natur und Kultur geprägt hat",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/einfuehrung-kulturgeschichte/";
             },},{id: "teachings-forschungskolloquium-co",
