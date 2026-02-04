@@ -1,189 +1,155 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Christian Kassung
+  label: Kulturwissenschaftler
+  email: ckassung@culture.hu-berlin.de
+  location: Berlin, Deutschland
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  phone: (030) 2093-66295
+  website: www.wissensgeschichte.de
+  summary: Lehrt und forscht zur Wissens- und Kulturgeschichte der Physik, den Kulturtechniken der Industrialisierung sowie zur Geschichte und Praxis technischer Medien. Wenn er dies nicht tut, steht er am Herd, auf dem Tennisplatz oder sitzt am Klavier.
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: ckassung
+    - network: X
+      username: ckassung
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Unter den Linden 6
+    city: Berlin
+    region: Berlin
+    postalCode: 10099
+    countryCode: DE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Universität zu Köln
+        location: Köln, Deutschland
+        url: https://www.uni-koeln.de/
+        area: Deutsche Philologie
+        degree: Promotion
+        start_date: 1995-04-01
+        end_date: 1999-06-29
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Universität zu Köln
+        location: Köln, Deutschland
+        url: https://www.uni-koeln.de/
+        area: Germanistik, Physik, Philosophie
+        degree: Staatsexamen
+        start_date: 1989-10-01
+        end_date: 1995-04-31
+
+      - institution: RWTH Aachen
+        location: Aachen, Deutschland
+        url: https://www.rwth-aachen.de/
+        area: Physik, Mathematik, Philosophie
+        degree: Staatsexamen
+        start_date: 1988-10-01
+        end_date: 1989-09-30
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Institut für Kulturwissenschaft und Medienwissenschaft, Humboldt-Universität zu Berlin
+        position: Professor für Kulturtechniken und Wissensgeschichte
+        location: Berlin, Deutschland
+        url: https://www.culture.hu-berlin.de/de/institut/kollegium/128331
+        start_date: 2006-10-01
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Gründungsdirektor des Instituts für Kulturwissenschaft und Medienwissenschaft (seit 2026)
+          - Dekan der Kultur-, Sozial- und Bildungswissenschaftlichen Fakultät (2018-2023)
+          - Principal Investigator am Exzellenzcluster »Matters of Activity« (seit 2018)
+          - Vizedirektor des Hermann von Helmholtz-Zentrums für Kulturtechnik (2015-2021)
+          - Direktor des Instituts für Kulturwissenschaft (2011-2013)
+          - Vertrauensdozent der Studienstiftung des Deutschen Volkes (seit 2011)
+          - Studiendekan der Philosophischen Fakultät III (2007-2010)
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Institut für Kulturwissenschaft und Medienwissenschaft, Humboldt-Universität zu Berlin
+        position: Wissenschaftlicher Assistent
+        location: Berlin, Deutschland
+        url: https://www.culture.hu-berlin.de/de/institut/kollegium/128331
+        start_date: 2000-03-01
+        end_date: 2006-08-31
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+          - Vertretungsprofessur für »Multimedia« an der Universität Siegen (2005/06)
+          - Gastprofessur an der Universität für industrielle Gestaltung und Design Linz (2002/03)
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Habilitation für das Fach Kulturwissenschaft
+        date: 2007-10-22
+        issuer: Humboldt-Universität zu Berlin
+        icon: fa-solid fa-book
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Promotion im Fach Deutsche Philologie
+        date: 1999-06-32
+        issuer: Universität zu Köln
+        icon: fa-solid fa-book
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Awards:
+      - title: Senior Fellow
+        date: 2023
+        awarder: Kolleg-Forschungsgruppe »Imaginarien der Kraft« der Universität Hamburg
+        url: https://www.imaginarien-der-kraft.uni-hamburg.de/
+        summary: ""
+
+      - title: Senior Fellow
+        date: 2016/17
+        awarder: Kolleg-Forschergruppe »Medienkulturen der Computersimulation« der Leuphana Universität Lüneburg
+        summary: ""
+
+      - title: Humboldt-Preis für gute Lehre
+        date: 2010
+        awarder: Humboldt-Universität zu Berlin
+        summary: ""
+
+    Publications:
+      - title: Filtern. Zur Theorie einer Kulturtechnik des 21. Jahrhunderts
+        authors:
+          - Alwin J. Cubasch
+          - Christian Kassung
+        publisher: "Berlin and Boston: dG Arts"
+        releaseDate: 2024
+        doi: 10.1515/9783689242220
+        summary: "Der Begriff der Kulturtechnik befindet sich aktuell in einem entscheidenden Wandlungsprozess: dem Wechsel vom Apparat zur Umgebung. Kulturtechniken lassen sich nicht länger in Relation zu bestimmten einzelnen Gegenständen oder isolierten Situationen denken. Vielmehr sind sie zu environing technologies geworden, in denen die Differenz von Natur und Kultur aufgehoben ist."
+
+      - title: Fleisch. Die Geschichte einer Industrialisierung
+        authors:
+          - Christian Kassung
+        publisher: "Paderborn: Ferdinand Schönigh"
+        releaseDate: 2020
+        url: "https://brill.com/view/title/56249"
+        summary: "Roh, gekocht, kalt, heiß, fettig oder mager – Fleisch ist heute überall und jederzeit verfügbar. Die allgegenwärtige Verfügbarkeit von Fleisch als Konsumware unterscheidet unsere Moderne von allen vorherigen Epochen. Wer verstehen will, warum und wie wir Fleisch essen, muss ins Berlin des 19. Jahrhunderts zurückgehen. Hier erlangte Fleisch jene Selbstverständlichkeit, die im Zentrum der aktuellen Ernährungsdebatten steht."
+
+    Languages:
+      - name: Deutsch
+        summary: Muttersprachler
+        icon: fa-solid fa-hashtag
+
+      - name: Englisch
+        summary: fließend
+        icon: fa-solid fa-hashtag
+
+      - name: Französisch
+        summary: Grundkenntnisse
+        icon: fa-solid fa-hashtag
+
+      - name: Schwedisch
+        summary: Grundkenntnisse
+        icon: fa-solid fa-hashtag
+
+      - name: Latein
+        summary: Großes Latinum
+        icon: fa-solid fa-hashtag
+
+    Computer:
+      - label: Plattforms
+        details: Linux, MacOS, Arduino
+      - label: Technologies
+        details: Linux administration
+      - label: Programming
+        details: Perl, diverse Shell-Dialekte; TeX/LaTeX, HTML, Markdown.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Filtering Oranienburg
+        summary: Erforschung der Geschichte einer Stadt als radioaktive Industrielandschaft im Rahmen des Exzellenzclusters »Matters of Activity«
+        start_date: 20220
+        end_date: ""
+        url: /projects/oranienburg/

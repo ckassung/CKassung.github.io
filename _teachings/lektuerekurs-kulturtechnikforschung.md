@@ -6,7 +6,7 @@ instructor: Prof. Kassung
 year: 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
-time: Di. wöchentlich 10--12 Uhr
+time: Di. wöchentlich 10&ndash;12 Uhr
 course_id: lektuerekurs-kulturtechnikforschung
 schedule:
 ---

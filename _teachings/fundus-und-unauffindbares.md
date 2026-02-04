@@ -6,7 +6,7 @@ instructor: Prof. Kassung/Prof. Tkaczyk
 year: 2025/26
 term: Sommersemester 2026
 location: UDL 6, Raum 3075
-time: Di. wöchentlich 18--20 Uhr
+time: Di. wöchentlich 18&ndash;20 Uhr
 course_id: fundus-und-unauffindbares
 schedule:
 ---

@@ -6,7 +6,7 @@ instructor: Prof. Kassung
 year: 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
-time: Di. wöchentlich 14--16 Uhr
+time: Di. wöchentlich 14&ndash;16 Uhr
 course_id: mediengeschichte-berlins
 schedule:
 ---

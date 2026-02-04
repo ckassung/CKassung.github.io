@@ -5,3 +5,10 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  colors:
+    text: black
+    name: '#00376C'
+    connections: '#00376C'
+    section_titles: '#00376C'
+    links: '#00376C'
+    last_updated_date_and_page_numbering: grey
