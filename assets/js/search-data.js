@@ -426,16 +426,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-stellenausschreibung-videoproduktion-am-exzellenzcluster-matters-of-activity",
+          title: 'Stellenausschreibung Videoproduktion am Exzellenzcluster »Matters of Activity«',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_stellenausschreibung-moa/";
+            },},{id: "news-zur-diesjährigen-langen-nacht-der-wissenschaften-präsentieren-wir-eine-neugestaltung-des-cube-of-physics-im-lise-meitner-haus-institut-für-physik",
+          title: 'Zur diesjährigen Langen Nacht der Wissenschaften präsentieren wir eine Neugestaltung des »Cube of...',
+          description: "",
+          section: "News",},{id: "news-der-tagungsbericht-zur-diesjährigen-zwanzigsten-kultur-und-informatik-in-lissabon-ist-online",
+          title: 'Der Tagungsbericht zur diesjährigen zwanzigsten »Kultur und Informatik« in Lissabon ist online.',
+          description: "",
+          section: "News",},{id: "news-das-buch-filtern-zur-theorie-einer-kulturtechnik-des-21-jahrhunderts-ist-jetzt-online-als-pdf-im-open-access-verfügbar-sparkles",
+          title: 'Das Buch »Filtern. Zur Theorie einer Kulturtechnik des 21. Jahrhunderts« ist jetzt online...',
+          description: "",
+          section: "News",},{id: "news-die-lehrplanung-für-das-kommende-sommersemester-ist-unter-online-geschaltet",
+          title: 'Die Lehrplanung für das kommende Sommersemester ist unter online geschaltet.',
+          description: "",
+          section: "News",},{id: "news-sprechstunden-finden-im-semester-wöchentlich-dienstags-um-16-uhr-statt-bitte-melden-sie-sich-hierzu-bei-frau-gaedicke-per-e-mail-unter-christiane-gaedicke-at-rz-hu-berlin-de-an-für-formale-fragen-zur-lehre-können-sie-sich-gerne-per-e-mail-an-meine-hilfkraft-patrick-mackens-wenden-aktuelle-informationen-zum-laufenden-wintersemester-finden-sie-online-auf-dieser-website",
+          title: 'Sprechstunden finden im Semester wöchentlich dienstags um 16 Uhr statt. Bitte melden Sie...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
