@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -58,26 +65,92 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-oranienburg-post-nr-6",
         
-          title: "a post with plotly.js",
+          title: "Oranienburg-Post Nr. 6",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Stoffgeschichte",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/oranienburg_006/";
           
         },
-      },{id: "post-a-post-with-image-galleries",
+      },{id: "post-semesterplan-einführung-in-die-kulturgeschichte",
         
-          title: "a post with image galleries",
+          title: "Semesterplan »Einführung in die Kulturgeschichte«",
         
-        description: "this is what included image galleries could look like",
+        description: "Leitet direkt zum Semesterplan »Einführung in die Kulturgeschichte« als PDF weiter.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/assets/pdf/semesterplan_kulturgeschichte.pdf";
+          
+        },
+      },{id: "post-seminarplan-von-der-kybernetik-zur-ki-zur-geschichte-und-theorie-der-maschinen",
+        
+          title: "Seminarplan »Von der Kybernetik zur KI. Zur Geschichte und Theorie der Maschinen«",
+        
+        description: "Leitet direkt zum Seminarplan »Von der Kybernetik zur KI. Zur Geschichte und Theorie der Maschinen« als PDF weiter.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/seminarplan_kybernetik.pdf";
+          
+        },
+      },{id: "post-culinarium",
+        
+          title: "Culinarium",
+        
+        description: "Ein fiktives Interview zur kulinarischen Lage der Zeit",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/culinarium/";
+          
+        },
+      },{id: "post-oranienburg-post-nr-5",
+        
+          title: "Oranienburg-Post Nr. 5",
+        
+        description: "Stoffgeschichte",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/oranienburg_005/";
+          
+        },
+      },{id: "post-aquatic-mobilities-littoral-cultures",
+        
+          title: "Aquatic Mobilities/Littoral Cultures",
+        
+        description: "Exploratory Workshop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/workshop-mobility-02/";
+          
+        },
+      },{id: "post-kulturtechniken-der-mobilität-amp-ndash-material-cultures-of-mobility",
+        
+          title: "Kulturtechniken der Mobilität &amp;ndash; Material Cultures of Mobility",
+        
+        description: "Exploratory Workshop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/workshop-mobility-01/";
+          
+        },
+      },{id: "post-oranienburg-post-nr-4",
+        
+          title: "Oranienburg-Post Nr. 4",
+        
+        description: "Stoffgeschichte",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/oranienburg_004/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -91,224 +164,92 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-digitization-of-indigenous-knowledge-for-extended-reality-and-culture",
         
-          title: "a post with tabs",
+          title: 'Digitization of Indigenous Knowledge for Extended Reality and Culture <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "this is what included tabs in a post could look like",
+        description: "Report on Summer School 2023 at Borneo Cultures Museum, Kuching",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.open("https://www.matters-of-activity.de/en/activities/11082/digitization-of-indigenous-knowledge-for-extended-reality-and-culture", "_blank");
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-oranienburg-post-nr-3",
         
-          title: "a post with typograms",
+          title: "Oranienburg-Post Nr. 3",
         
-        description: "this is what included typograms code could look like",
+        description: "Monazitbaum",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/blog/2024/oranienburg-003/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-kultur-und-informatik-2023",
         
-          title: "a post that can be cited",
+          title: "Kultur und Informatik 2023",
         
-        description: "this is what a post that can be cited looks like",
+        description: "Bericht von der 20. Tagung »Kultur und Informatik« in Lissabon",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/blog/2023/lissabon/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-wissenschaftliches-schreiben",
         
-          title: "a post with pseudo code",
+          title: "Wissenschaftliches Schreiben",
         
-        description: "this is what included pseudo code could look like",
+        description: "Eine maximal kurze Einführung ins wissenschaftliche Schreiben.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/blog/2023/wissenschaftliches-schreiben/";
           
         },
-      },{id: "post-a-post-with-code-diff",
+      },{id: "post-digitisation-of-indigenous-knowledge-for-extended-reality-and-cultural-heritage",
         
-          title: "a post with code diff",
+          title: 'Digitisation of Indigenous Knowledge for Extended Reality and Cultural Heritage <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "this is how you can display code diffs",
+        description: "Filtering Project Prepares DAAD Summer School in March 2023 at University of Technology Sarawak in Malaysia",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.open("https://www.matters-of-activity.de/en/activities/9674/digitisation-of-indigenous-knowledge-for-extended-reality-and-cultural-heritage", "_blank");
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
+      },{id: "post-oranienburg-post-nr-2",
         
-          title: "a post with advanced image components",
+          title: "Oranienburg-Post Nr. 2",
         
-        description: "this is what advanced image components could look like",
+        description: "Auerlichter",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
+            window.location.href = "/blog/2023/oranienburg_002/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
+      },{id: "post-oranienburg-post-nr-1",
         
-          title: "a post with vega lite",
+          title: "Oranienburg-Post Nr. 1",
         
-        description: "this is what included vega lite code could look like",
+        description: "Basics",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/vega-lite/";
+            window.location.href = "/blog/2022/oranienburg-001/";
           
         },
-      },{id: "post-a-post-with-geojson",
+      },{id: "post-akademisches-schreiben-mit-zettrl",
         
-          title: "a post with geojson",
+          title: "Akademisches Schreiben mit Zettrl",
         
-        description: "this is what included geojson code could look like",
+        description: "Installation und Verwendung von Zettrl als Zettelkasten.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2022/zettlr/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -322,110 +263,77 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-post-with-redirect",
+      },{id: "post-lesbarkeit-amp-typographie",
         
-          title: "a post with redirect",
+          title: "Lesbarkeit &amp; Typographie",
         
-        description: "you can also redirect to assets like pdf",
+        description: "Einige Standards für besser lesbare Texte.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/blog/2022/formalia/";
           
         },
-      },{id: "post-a-post-with-diagrams",
+      },{id: "post-allgemeine-relativitätstheorie",
         
-          title: "a post with diagrams",
+          title: "Allgemeine Relativitätstheorie",
         
-        description: "an example of a blog post with diagrams",
+        description: "Die allgemeine Relativitätstheorie im Cube of Physics.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/blog/2022/art/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-perl-camel",
         
-          title: "a distill-style blog post",
+          title: "Perl Camel",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "Ein schönes Beispiel von Obfuscated Perl Code.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
+            window.location.href = "/blog/2022/perl/";
           
         },
-      },{id: "post-a-post-with-twitter",
+      },{id: "post-projektseminar-malmaschinen",
         
-          title: "a post with twitter",
+          title: "Projektseminar »Malmaschinen«",
         
-        description: "an example of a blog post with twitter",
+        description: "Plakate der interaktiven Seminarausstellung",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/twitter/";
+            window.location.href = "/blog/2018/malmaschinen/";
           
         },
-      },{id: "post-a-post-with-disqus-comments",
+      },{id: "post-temporäres-objektlabor",
         
-          title: "a post with disqus comments",
+          title: "Temporäres Objektlabor",
         
-        description: "an example of a blog post with disqus comments",
+        description: "Ein Experiment zur Erforschung von Objekten aus wissenschaftlichen Sammlungen",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2015/objektlabor/";
           
         },
-      },{id: "post-a-post-with-math",
+      },{id: "post-analogspeicher-in-namibia",
         
-          title: "a post with math",
+          title: "Analogspeicher in Namibia",
         
-        description: "an example of a blog post with some math",
+        description: "Bericht von der »International Summer School 2015 in Culture and Computer Science«",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/math/";
+            window.location.href = "/blog/2015/analogspeicher-namibia/";
           
         },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-max-planck",
+          title: 'Max Planck',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/max_planck/";
             },},{id: "news-stellenausschreibung-videoproduktion-am-exzellenzcluster-matters-of-activity",
           title: 'Stellenausschreibung Videoproduktion am Exzellenzcluster »Matters of Activity«',
           description: "",
@@ -446,51 +354,61 @@ ninja.data = [{
           section: "News",},{id: "news-sprechstunden-finden-im-semester-wöchentlich-dienstags-um-16-uhr-statt-bitte-melden-sie-sich-hierzu-bei-frau-gaedicke-per-e-mail-unter-christiane-gaedicke-at-rz-hu-berlin-de-an-für-formale-fragen-zur-lehre-können-sie-sich-gerne-per-e-mail-an-meine-hilfkraft-patrick-mackens-wenden-aktuelle-informationen-zum-laufenden-wintersemester-finden-sie-online-auf-dieser-website",
           title: 'Sprechstunden finden im Semester wöchentlich dienstags um 16 Uhr statt. Bitte melden Sie...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-cube-of-physics",
+          title: 'Cube of Physics',
+          description: "Installation im Lise-Meitner-Haus, 2018",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/cube-of-physics/";
+            },},{id: "projects-dingler",
+          title: 'Dingler',
+          description: "Retrodigitalisierung Polytechnisches Journal, 2008&amp;ndash;2013",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/dingler/";
+            },},{id: "projects-plancks-hexadekachor",
+          title: 'Plancks Hexadekachor',
+          description: "Installation im IRIS Forschungsbau, Adlershof, 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/hexadekachor/";
+            },},{id: "projects-hidden-kosmos",
+          title: 'Hidden Kosmos',
+          description: "Reconstructing Alexander von Humboldt’s »Kosmos-Lectures«, 2014&amp;ndash;2016",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/hidden-kosmos/";
+            },},{id: "projects-klangsehen",
+          title: 'Klangsehen',
+          description: "Ausstellung im Jacob-und-Wilhelm-Grimm-Zentrum, 2015",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/klangsehen/";
+            },},{id: "projects-minerva",
+          title: 'Minerva',
+          description: "Medienstationen im Märkischen Museum, 2015",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/minerva/";
+            },},{id: "projects-techniken-des-nährens",
+          title: 'Techniken des Nährens',
+          description: "Beiträge zur Kulturgeschichte von Nahrungsasymmetrien, seit 2015",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/naehren/";
+            },},{id: "projects-okkulte-moderne",
+          title: 'Okkulte Moderne',
+          description: "Beiträge zur nichthegemonialen Innovation, seit 2011",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/okkulte-moderne/";
+            },},{id: "projects-filtering-oranienburg",
+          title: 'Filtering Oranienburg',
+          description: "Erforschung der Geschichte einer Stadt als radioaktive Industrielandschaft im Rahmen des Exzellenzclusters »Matters of Activity«, seit 2022",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/oranienburg/";
+            },},{id: "projects-synchron",
+          title: 'Synchron',
+          description: "Ausstellung im Pergamon-Palais, 2012",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/synchron/";
+            },},{id: "projects-vortex",
+          title: 'Vortex',
+          description: "Eine Kultur- und Wissensgeschichte des Wirbels, seit 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vortex/";
             },},{id: "teachings-bachelorkolloquium-co",
           title: 'Bachelorkolloquium (CO)',
           description: "Begleitendes Kolloquium für Bachelorarbeiten.",
@@ -531,21 +449,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/kassung_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%63%6B%61%73%73%75%6E%67@%63%75%6C%74%75%72%65.%68%75-%62%65%72%6C%69%6E.%64%65", "_blank");
         },
       },{
         id: 'social-rss',
@@ -559,14 +470,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=7VfSCT4AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
