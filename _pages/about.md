@@ -27,9 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<b>Die Website wird aktualisiert und enthält derzeit an vielen Stellen
-Vorlagentexte.</b>
-
 Die Professur »Kulturtechniken und Wissensgeschichte« verbindet die Erforschung
 der Kulturtechniken als einem impliziten, sowohl Praktiken wie Dinge
 umfassenden Wissen mit der Frage nach den historischen, materiellen und
