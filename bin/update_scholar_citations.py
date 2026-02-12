@@ -3,6 +3,7 @@
 import os
 import sys
 import yaml
+sys.path.append("/home/ck/.local/share/pipx/venvs/")
 from datetime import datetime
 from scholarly import scholarly
 
