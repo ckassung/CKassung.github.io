@@ -48,7 +48,7 @@ modellbasierter KI-Technologie.
 ## Teilnahme
 
 Der Besuch dieser Vorlesung setzt keine Studienleistungen voraus.
-Die Vorlesung findet als Präsenzveranstaltung statt und beginnt am 14.10.2025.
+Die Vorlesung findet als Präsenzveranstaltung statt und beginnt am 14.4.2026.
 Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
 »Praeludium« an.
 

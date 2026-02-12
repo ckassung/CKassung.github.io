@@ -22,7 +22,7 @@ dieses technische Verständnis an und bricht so mit einem bildungsbürgerlichen
 Kulturverständnis des 19. Jahrhunderts, das Kultur mit Bildung, ›hoher‹ Kunst
 und gutem Geschmack gleichsetzte. Aus diesem Ansatz entwickelte sich sukzessive
 ein Theorierepertoire, das klassische Kulturtechniken wie Bild, Schrift und
-Zahl, aber auch Körpertechniken, Medien und aktuell Umwelten addressiert. Das
+Zahl, aber auch Körpertechniken, Medien und aktuell Umwelten adressiert. Das
 Seminar widmet sich ›Klassikern‹ der Kulturtechnikforschung von Vico und Mauss
 über Macho und Siegert bis Sprenger und Le Guin, die im *close reading*
 erschlossen werden sollen.

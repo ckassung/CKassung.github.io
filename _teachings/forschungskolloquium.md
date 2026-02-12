@@ -14,11 +14,10 @@ schedule:
 ## Kurzbeschreibung
 
 Das Kolloquium richtet sich an Masterstudierende und Promovierende und wird in
-Kooperation mit der und wird in Kooperation mit der Medienwissenschaft, Prof.
-Tkaczyk, durchgeführt. Gemeinsam diskutiert werden mögliche Forschungsfragen
-und -strategien, Theorie- oder Gegenstandsprobleme, bereits geschriebene
-Entwürfe oder Kapitel aus den eigenen Arbeiten oder auch wichtige
-Grundlagenliteratur.
+Kooperation mit der Medienwissenschaft, Prof. Tkaczyk, durchgeführt. Gemeinsam
+diskutiert werden mögliche Forschungsfragen und -strategien, Theorie- oder
+Gegenstandsprobleme, bereits geschriebene Entwürfe oder Kapitel aus den eigenen
+Arbeiten oder auch wichtige Grundlagenliteratur.
 
 ## Teilnahme
 

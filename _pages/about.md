@@ -9,9 +9,9 @@ profile:
   image: kassung.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Georgenstr. 47</p>
-    <p>Raum 4.03</p>
-    <p>10099 Berlin</p>
+    <p>Sitz: Georgenstr. 47<br />
+    Raum 4.03<br />
+    10117 Berlin</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

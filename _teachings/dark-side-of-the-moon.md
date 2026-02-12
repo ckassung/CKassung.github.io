@@ -23,8 +23,8 @@ Seminar wird drei Ebenen dieser langen Faszinationsgeschichte miteinander
 verschalten: erstens die mit dem Mond verbundenen Mythen, Imaginative und
 Projektionen, zweitens die Medien und Techniken der Monderkundung und drittens
 die Wissensgeschichte des Erdtrabanten. Das Seminar wird durchgängig mit
-Referatbeiträgen zu den jeweiligen Themen arbeiten. Für die erfolgreiche
-Teilnahme am Seminar ist ein Referatbeitrag obligatorisch, eine vorherige
+Referatsbeiträgen zu den jeweiligen Themen arbeiten. Für die erfolgreiche
+Teilnahme am Seminar ist ein Referatsbeitrag obligatorisch, eine vorherige
 Anmeldung per E-Mail wird empfohlen. Ein entsprechender Reader wird zum
 1.4.2026 in Moodle freigeschaltet.
 

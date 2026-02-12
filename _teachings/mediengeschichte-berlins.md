@@ -13,12 +13,12 @@ schedule:
 
 ## Kurzbeschreibung
 
-Die Geschichte Berlin läßt sich auch als Mediengeschichte erzählen. Bereits
+Die Geschichte Berlin lässt sich auch als Mediengeschichte erzählen. Bereits
 Friedrich II. verlegte Mitte des 18. Jahrhunderts die königliche Oper aus der
 Residenz heraus direkt ins Berliner Stadtbild. Einhundert Jahre später besuchte
 man mondäne Kaiserpanoramen und hatte dabei eine der zahlreichen, teilweise
 dreimal täglich erscheinenden Tageszeitungen unter dem Arm. Die Entwicklung zur
-größten Industriestadt Europas in den 1920er Jahren erfolgt in enger
+größten Industriestadt Europas in den 1920er Jahren erfolgte in enger
 Wechselwirkung mit technischen Medien wie Glühlampe, Film, Radio, Fernsehen
 oder Computer. Aber auch in der jüngeren Geschichte der Teilung und
 Wiedervereinigung spielen Medien wie die Abhöranlage auf dem Teufelsberg oder
