@@ -283,8 +283,9 @@ scholar:
   last_name: [Kassung]
   first_name: [Christian]
 
-  style: journal-fur-medienlinguistik
-  # style: modern-language-association-8th-edition
+  style: modern-language-association
+  # style: journal-fur-medienlinguistik
+  # dependent/style: modern-language-association-8th-edition
   locale: en
 
   source: /_bibliography/
