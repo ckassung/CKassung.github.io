@@ -21,7 +21,7 @@ Sicherlich würde man heute eine Biographie über Max Planck anders schreiben.
 Man würde den Hinweis darauf, wie stark Planck den »Reichskanzler der Physik«
 Hermann von Helmholtz verehrte, mit noch größerem zeitlichen Abstand einordnen
 müssen, als dies bereits Armin Hermann vor gut fünfzig Jahren tat. Viel
-Antiquiertes läßt sich zwangsläufig in einer Biograhie finden, die 1973
+Antiquiertes lässt sich zwangsläufig in einer Biographie finden, die 1973
 erschien. Umso mehr mag es lohnen, nach dem zu fragen, was noch heute erstaunt
 oder fasziniert.
 
@@ -37,6 +37,6 @@ Lichtstärke finden? Hintergrund war ein erbitterter weil ökonomisch extrem
 wertvoller Streit zwischen Befürwortern des hergebrachten Gaslichtes und
 Befürwortern des neuen elektrischen Lichtes. Das Problem des »Schwarzen
 Strahler« war also keinesfalls eine *rein akademische* Frage. Vielmehr gibt es
-eine tiefe kulturhistorische Verwurzung der Quantenmechanik in der
+eine tiefe kulturhistorische Verwurzelung der Quantenmechanik in der
 Urbanisierung bzw. Wechselwirkung von Beleuchtungstechnologien und
 Stadtentwicklung.

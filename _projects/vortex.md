@@ -24,18 +24,18 @@ ist. So chaotisch diese Bewegung des Vortex ist, zeichnet sie sich doch durch
 zwei fundamentale Richtungen aus: die Rotation in der Ebene und die senkrecht
 dazu stehende Schwerkraft. Dabei entzieht sich der Strudel seiner Fixierung; er
 hat kein definiertes Innen und Außen. Das rotierende Außen greift potentiell
-unendlich weit. Das sogende Innen weist in eine andere Welt, es bricht die
+unendlich weit. Das saugende Innen weist in eine andere Welt, es bricht die
 Dimension, zeigt auf das Reale.
 
 Die kulturelle Breite des Vortex-Konzepts ist enorm. So läßt Herman Melville
 Ismaels Reise an Land beginnen, aber im Vortex enden. Während aber Ismael dem
 Strudel entkommt, werden wir als Zuschauer nur umso tiefer in die
 unentrinnbaren Gedankenströme Scottie Fergusons hineingezogen, den Alfred
-Hitchcock seiner totgelaubten Frau nachjagen läßt. Michel Serres sieht den
+Hitchcock seiner totgeglaubten Frau nachjagen lässt. Michel Serres sieht den
 Beginn der modernen thermodynamischen Physik bei Lukrez, wohingegen sich
 Descartes der Wirbel bedient, um damit &ndash; im Widerspruch zur Newtonschen
 Physik &ndash; die Schwerkraft zu erklären. Und während sich William Turner bei
-stärkstem Seegang an einen Mast binden läßt, um einen »Snow Storm« malen zu
+stärkstem Seegang an einen Mast binden lässt, um einen »Snow Storm« malen zu
 können, stürzt sich Tullio Crali 1939 »Im Sturzflug auf die Stadt«, um die Idee
 des Vortizismus zu illustrieren.
 

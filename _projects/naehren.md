@@ -21,8 +21,8 @@ Lieferkettenengpässe in allen Lebensbereichen stellen das zentrale
 Ernährungsparadigma der europäischen Moderne infrage, das wesentlich auf einer
 von Raum und Zeit unabhängigen Verfügbarkeit von Nahrungsmitteln und
 Nährstoffen aus allen Teilen der Welt basiert und seit Jahrhunderten mit einer
-entsprechenden Ungleichverteilung von Ressourcen eingehergeht. Dies betrifft
-die massenhaften Versorgung menschlicher und tierlicher Individuen ebenso wie
+entsprechenden Ungleichverteilung von Ressourcen einhergeht. Dies betrifft
+die massenhaften Versorgung menschlicher und tierischer Individuen ebenso wie
 die Gestaltung und Aufrechterhaltung komplexer Mediensysteme und großer
 technischer Infrastrukturen, die von einer Vielzahl natürlicher und
 synthetischer Ressourcen abhängen. In einigen exemplarischen Studien werden die
