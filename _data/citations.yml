@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-23'
 papers:
   7VfSCT4AAAAJ:1sJd4Hv_s6UC:
     citations: 2
@@ -21,16 +21,24 @@ papers:
     citations: 2
     title: 'Filtern: Zur Theorie einer Kulturtechnik des 21. Jahrhunderts'
     year: '2024'
+  7VfSCT4AAAAJ:5Ul4iDaHHb8C:
+    citations: 0
+    title: "ALBERT K\xDCMMEL-SCHNUR"
+    year: Unknown Year
   7VfSCT4AAAAJ:5nxA0vEk-isC:
     citations: 2
     title: 'Saxa Loquuntur: The Function of (Multi-) Media for Antique Architecture'
     year: '2018'
+  7VfSCT4AAAAJ:8AbLer7MMksC:
+    citations: 0
+    title: Bildtelegraphie
+    year: '2014'
   7VfSCT4AAAAJ:CHSYGLWDkRkC:
     citations: 0
     title: "Okkulte Moderne: Beitr\xE4ge zur Nichthegemonialen Innovation"
     year: '2015'
   7VfSCT4AAAAJ:HDshCWvjkbEC:
-    citations: 3
+    citations: 4
     title: Schnittstelle Laderampe. Zur Infrastruktur des Schlachthofs
     year: '2019'
   7VfSCT4AAAAJ:IWHjjKOFINEC:
@@ -49,6 +57,10 @@ papers:
     citations: 0
     title: 'Kultur und Informatik: Virtual History and Augmented Present'
     year: '2019'
+  7VfSCT4AAAAJ:LPZeul_q3PIC:
+    citations: 0
+    title: Die Unordnung der Dinge
+    year: Unknown Year
   7VfSCT4AAAAJ:NaGl4SEjCO4C:
     citations: 9
     title: How to hear the forum Romanum. On historical realities and aural augmentation
@@ -77,6 +89,10 @@ papers:
     citations: 7
     title: 'Interactive recipe book-enhance your traditional recipe book: showing cultural heritage through cooking'
     year: '2018'
+  7VfSCT4AAAAJ:VOx2b1Wkg3QC:
+    citations: 0
+    title: Der Untergang der Kursk und die Wissensgeschichte der seismischen Forensik
+    year: Unknown Year
   7VfSCT4AAAAJ:W7OEmFMy1HYC:
     citations: 1
     title: "Farewell to Sophienstra\xDFe"
@@ -125,12 +141,16 @@ papers:
     citations: 0
     title: "Jahrbuch f\xFCr Historische Bildungsforschung 2014. Schwerpunkt Maschinen"
     year: '2015'
+  7VfSCT4AAAAJ:fQNAKQ3IYiAC:
+    citations: 0
+    title: "Die St\xF6rung am Apparat. Vom Telephon zum Handy"
+    year: Unknown Year
   7VfSCT4AAAAJ:g5m5HwL7SMYC:
     citations: 35
     title: 'Die Unordnung der Dinge: Eine Wissens-und Mediengeschichte des Unfalls'
     year: '2009'
   7VfSCT4AAAAJ:geHnlv5EZngC:
-    citations: 2
+    citations: 3
     title: 'Theorie des Filterns: Zur Programmatik eines Experimentalsystems'
     year: '2021'
   7VfSCT4AAAAJ:hFOr9nPyWt4C:
