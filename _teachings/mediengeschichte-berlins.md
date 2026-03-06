@@ -3,7 +3,7 @@ layout: course
 title: Mediengeschichte Berlins (SE)
 description: Die Geschichte Berlins als Mediengeschichte seit Mitte des 18. Jahrhunderts in Theorietexten und Standortexkursionen.
 instructor: Prof. Kassung
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
 time: Di. wöchentlich 14&ndash;16 Uhr

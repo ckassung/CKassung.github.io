@@ -3,7 +3,7 @@ layout: course
 title: Bachelorkolloquium (CO)
 description: Begleitendes Kolloquium für Bachelorarbeiten.
 instructor: Prof. Kassung
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
 time: Mi. wöchentlich 14&ndash;16 Uhr

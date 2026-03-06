@@ -3,11 +3,11 @@ layout: course
 title: Dark Side of the Moon (SE)
 description: Mystifizierung und Rationalisierung des Mondes als europäische Wissens- und Kulturgeschichte.
 instructor: Prof. Kassung
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
 time: Mi. wöchentlich 10&ndash;12 Uhr
-course_id: dark-side-of-the-moon
+course_id: dark-side-of-the-moon_2026
 schedule:
 ---
 

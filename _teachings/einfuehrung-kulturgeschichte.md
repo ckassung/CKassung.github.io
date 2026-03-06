@@ -3,7 +3,7 @@ layout: course
 title: Einführung in die Kulturgeschichte (VL)
 description: Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der Leitfrage, wie das Zusammenspiel von Praktiken, Dingen und Wissen das Verhältnis von Natur und Kultur geprägt hat
 instructor: Prof. Kassung
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Wintersemester 2025/26
 location: UDL 6, Raum 2091
 time: Di. wöchentlich 14&ndash;16 Uhr

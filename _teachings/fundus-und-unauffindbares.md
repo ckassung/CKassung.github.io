@@ -3,7 +3,7 @@ layout: course
 title: Fundus und Unauffindbares. Medienarchäologisches Sammeln in globaler Perspektive (RVL)
 description: Ringvorlesung zur Gegenwart und Zukunft des medienarchäologischen Fundus'.
 instructor: Prof. Kassung/Prof. Tkaczyk
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
 location: UDL 6, Raum 3075
 time: Di. wöchentlich 18&ndash;20 Uhr

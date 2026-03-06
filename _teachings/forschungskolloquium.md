@@ -3,7 +3,7 @@ layout: course
 title: Forschungskolloquium (CO)
 description: Begleitendes Kolloquium für Masterarbeiten und Promotionen.
 instructor: Prof. Kassung/Prof. Tkaczyk
-year: 2025/26
+year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
 location: GEO 47, Raum N.N.
 time: Fr. Blockveranstaltung n.V.
