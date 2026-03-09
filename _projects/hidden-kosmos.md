@@ -23,7 +23,7 @@ Prolegomenen über Lage, Gestalt und Naturbeschaffenheit der Gestirne«, später
 als »Kosmos-Vorträge« bezeichnet. Der unbestreitbaren Wichtigkeit der
 »Kosmos-Vorträge« sowohl für Alexander von Humboldt im Besonderen als auch für
 die Wissenschafts- und Kulturgeschichte im Allgemeinen steht eine extrem
-unsichere Quellenlage zu den Vorträgen selbst gegenüber: Von Besuchern der
+unsichere Quellenlage zu den Vorträgen selbst gegenüber: Die von Besuchern der
 Vorträge angefertigte Nachschriften, die sich erhalten haben, sind zum größten
 Teil unveröffentlicht. Humboldts eigenhändige Manuskripte, die den Vorträgen
 zugrunde lagen, sind bislang in keiner Forschungsarbeit eingehend gewürdigt

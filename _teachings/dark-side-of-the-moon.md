@@ -44,3 +44,13 @@ MA-Modul 3: Kulturen des Wissens
 Im Seminar kann ein Teilnahmeschein (3 LP) durch regelmäßige
 Teilnahme und Inputreferat zu einer Seminarsitzung erworben wie auch eine
 Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden.
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241907&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=243756&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=139974"
+target="_blank">Moodle-Kurs</a></abbr>

@@ -66,7 +66,7 @@ Besucher darauf aufmerksam wird. Gleichzeitig nimmt das Objekt die Proportionen
 und Farben der Bestandsarchitektur auf.  An interaktiven Stationen kann der
 Besucher, an einem Audiowalk teilnehmen, mit einem Frequenzregler Wassermuster
 zeichnen, mit der Stimme Lichtlinien formen, durch elektromagnetische Spannung
-Metallplatten zum schwingen und klingen bringen oder in klangsensible
+Metallplatten zum Schwingen und Klingen bringen oder in klangsensible
 Lichtwelten eintauchen.
 
 <div class="row">

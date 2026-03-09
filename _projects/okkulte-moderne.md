@@ -112,10 +112,10 @@ werden müsse.
 
 ---
 
-### Okkulte Moderne. Beiträge nur Nichthegemonialen Innovation
+### Okkulte Moderne. Beiträge zur Nichthegemonialen Innovation
 
-Schriftenreihe bei De Gruyter Oldenbourg herausgegeben von  Christian Kassung,
-Sylvia Paletschek, Erhard Schüttpelz und Helmut Zander
+Schriftenreihe bei De Gruyter Oldenbourg, herausgegeben von Christian Kassung,
+Sylvia Paletschek, Erhard Schüttpelz und Helmut Zander.
 
 <div class="publications">
   {% bibliography -q !@misc[series ^= *Okkulte Moderne* && abbr ^= *Reihe*] %}

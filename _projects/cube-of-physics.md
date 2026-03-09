@@ -35,7 +35,7 @@ img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    V.l.n.r.: Entwurf der Installation mit Medienstation, Eröffnung zur Langen Nacht der Wissenschften 2020, Blick zur Decke.
+    V.l.n.r.: Entwurf der Installation mit Medienstation, Eröffnung zur Langen Nacht der Wissenschaften 2020, Blick zur Decke.
 </div>
 
 Die drei Fundamentalkonstanten Gravitation $$G$$, die inverse
