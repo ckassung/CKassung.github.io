@@ -1,4 +1,4 @@
-**Julia Gül Erdogan** ist Historikerin mit den Schwerpunkten Technik-, 
+**Dr. Julia Gül Erdogan** ist Historikerin mit den Schwerpunkten Technik-,
 Kultur- und Umweltgeschichte der Neueren und Neuesten Geschichte.
 
 Nach dem Studium der Fächer Geschichte und Germanistik forschte sie am 

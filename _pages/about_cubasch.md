@@ -1,8 +1,8 @@
-**Alwin J. Cubaschs** Forschungen bewegen sich zwischen der Geschichte von
-Aromen, Infrastrukturen und Weltraumsatellitenkulturen mit dem Ziel, besser zu
-verstehen, wie sozio-technische Materialitäten und Körperpraktiken Wege der
-Handlungsfähigkeit im digitalen Zeitalter auswählen, filtern und
-vorkonfigurieren.
+Die Forschungen von **Alwin J. Cubasch, M.A.** bewegen sich zwischen der
+Geschichte von Aromen, Infrastrukturen und Weltraumsatellitenkulturen mit dem
+Ziel, besser zu verstehen, wie sozio-technische Materialitäten und
+Körperpraktiken Wege der Handlungsfähigkeit im digitalen Zeitalter auswählen,
+filtern und vorkonfigurieren.
 
 In seiner laufenden Doktorarbeit untersucht er die Nahrungsmittelexperimente
 der NASA in den Anfängen der Raumfahrt und konzentriert sich dabei auf die
