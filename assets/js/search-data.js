@@ -84,7 +84,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/semesterplan_kulturgeschichte.pdf";
+            window.location.href = "/assets/pdf/semesterplan_einfuehrung-kulturgeschichte_2025-26.pdf";
           
         },
       },{id: "post-seminarplan-von-der-kybernetik-zur-ki-zur-geschichte-und-theorie-der-maschinen",
