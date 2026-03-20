@@ -13,119 +13,66 @@ schedule:
     date: 14.10.2025
     topic: Die Geschichte der Kulturgeschichte
     description: Übersicht über die Geschichte der Kulturgeschichte seit 1800, die wichtigsten Autoren und Theoriebegriffe.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 2
     date: 21.10.2025
     topic: Die Geschichte der Erde
     description: Lange Vorgeschichte der Erde vor dem Menschen (2,6 Mio. von 4,6 Mrd. Jahren).
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 3
     date: 28.10.2025
     topic: Die Geschichte der Schwerkraft
     description: Der Einfluß theoretisch-philosophischer Konzepte überlagerte bis ins 16./17. Jahrhundert die Wahrnehmung einfachster Naturereignisse wie dem Wurf eines Gegenstandes.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 4
     date: 4.11.2025
     topic: Die Geschichte der Engel
     description: Engel sind Medien, die Botschaften zwischen Jenseits und Diesseits übertragen.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 5
     date: 11.11.2025
     topic: Die Geschichte des Menschen
     description: Werkzeugherstellung und -gebrauch ist nicht eine rein praktische Tätigkeit, sondern immer mit einer symbolischen Dimension verbunden.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 6
     date: 25.11.2025
     topic: Die Geschichte der Wahrnehmung
     description: Technische Medien verschieben das mediale Apriori des Menschen sowohl zeitlich wie räumlich, insofern keine Wahrnehmung ohne Medien möglich ist.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 7
     date: 2.12.2025
     topic: Die Geschichte der Stimme
     description: In der Kulturgeschichte der Stimme verbinden sich Klang (Reales) und Bedeutung (Symbolisches) mit immer neuen und unterschiedlichen Gewichtungen.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 8
     date: 9.12.2025
     topic: Die Geschichte des Individuums
     description: Die Kulturgeschichte des Moderne ist durch drei bis vier große Schübe der Dezentrierung des Menschen gekennzeichnet.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 9
     date: 16.12.2025
     topic: Die Geschichte des Fortschritts
     description: Fortschritt sucht eine Antwort auf Differenzerfahrungen zwischen Erfahrungsraum und Erwartungshorizont und setzt damit Geschichtlichkeit *per se* voraus
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 10
     date: 6.1.2026
     topic: Die Geschichte der Urbanisierung
     description: Orte wie Kinos, Vergnügungsparks oder Infrastrukturen ermöglichen eine *innere* Urbanisierung.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 11
     date: 13.1.2026
     topic: Die Geschichte des Krieges
     description: Bereits am Beispiel des Ersten Weltkriegs läßt sich zeigen, wie stark Medien und Propaganda als Waffen hinter der Front eingesetzt werden.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 12
     date: 20.1.2026
     topic: Die Geschichte des Atoms
     description: Im Atomzeitalter spiegelt sich das sowohl utopische wie dystopische Faszinationspotential der Kernkräfte.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+
   - week: 13
     date: 27.1.2026
     topic: Die Geschichte der Zukunft
     description: Die kulturelle Konstruktion von Zukunft erfolgt über Szenarien und Fiktionen.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
 ---
 
 <abbr class="badge"><a

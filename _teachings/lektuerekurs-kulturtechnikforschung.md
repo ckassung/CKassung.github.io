@@ -5,10 +5,118 @@ description: Einführung in die wichtigsten Grundlagentexte der Kulturtechnikfor
 instructor: Prof. Kassung
 year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
-location: GEO 47, Raum N.N.
+location: GEO 47, Raum 0.10
 time: Di. wöchentlich 10&ndash;12 Uhr
 course_id: lektuerekurs-kulturtechnikforschung
 schedule:
+  - week: 1
+    date: 14.4.2026
+    topic: Einführungssitzung
+    description: 
+
+  - week: 2
+    date: 21.4.2026
+    topic: fällt aus wg. Konzilssitzung
+    description:
+    materials: 
+      - name: Maye, Harun 2010&#58; Was ist eine Kulturtechnik?
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206502
+
+  - week: 3
+    date: 28.4.2026
+    topic: fällt aus wg. Konzilssitzung
+    description:
+    materials: 
+      - name: Geoghegan, Bernard D. 2018&#58; After Kittler
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206503
+
+  - week: 4
+    date: 5.5.2026
+    topic: Verum et factum
+    description:
+    materials: 
+      - name: Vico, Giambattista 1740&#58; Die neue Wissenschaft über die gemeinschaftliche Natur der Völker, S. 43&ndash;72
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206267
+
+  - week: 5
+    date: 12.5.2026
+    topic: Homo loquens
+    description:
+    materials: 
+      - name: Herder, Johann G.v. 1772&#58; Abhandlung über den Ursprung der Sprache
+        url:
+
+  - week: 6
+    date: 19.5.2026
+    topic: Mensch und Natur
+    description:
+    materials: 
+      - name: Nietzsche, Friedrich 1873&#58; Ueber Wahrheit und Lüge im aussermoralischen Sinne
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206504
+
+  - week: 6
+    date: 26.5.2026
+    topic: Lektürewoche
+    description: Homo faber
+    materials: 
+      - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik
+        url:
+
+  - week: 7
+    date: 2.6.2026
+    topic: Mythen
+    description:
+    materials: 
+      - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur
+        url:
+
+  - week: 8
+    date: 9.6.2026
+    topic: Körpertechniken
+    description:
+    materials: 
+      - name: Mauss, Marcel 1935&#58; Der Begriff der Technik des Körpers, S. 199&ndash;219
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206508
+
+  - week: 9
+    date: 16.6.2026
+    topic: Phänomenologie
+    description:
+    materials: 
+      - name: Heidegger, Martin 1949&#58; Das Ding
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206509
+
+  - week: 10
+    date: 23.6.2026
+    topic: Bild Schrift Zahl
+    description:
+    materials: 
+      - name: Krämer, Sibylle; Bredekamp, Horst 2003&#58; Kultur, Technik, Kulturtechnik&#58; Wider die Diskursivierung der Kultur
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206510
+
+  - week: 11
+    date: 30.6.2026
+    topic: Medien
+    description: 
+    materials: 
+      - name: Siegert, Bernhard 2010&#58; Türen. Zur Materialität des Symbolischen
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206511
+
+  - week: 12
+    date: 7.7.2026
+    topic: Umwelttechniken
+    description:
+    materials: 
+      - name: Sörlin, Sverker; Wormbs, Nina 2018&#58; Environing technologies
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206512
+
+  - week: 13
+    date: 14.7.2026
+    topic: Homo ferens
+    description:
+    materials: 
+      - name: Le Guin, Ursula 1988&#58; The Carrier Bag Theory of Fiction
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206513
 ---
 
 ## Kurzbeschreibung
@@ -42,3 +150,15 @@ MA-Modul 1: Berliner Kulturwissenschaft
 Im Seminar kann ein Teilnahmeschein (3 LP) durch regelmäßige Teilnahme und
 Protokollierung einer Seminarsitzung erworben wie auch eine
 Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden.
+
+## Links
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=140163"
+target="_blank">Moodle-Kurs</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/mod/resource/view.php?id=5206515"
+target="_blank">Seminarplan</a></abbr>

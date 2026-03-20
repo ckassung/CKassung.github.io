@@ -28,3 +28,10 @@ Arbeitsstand des Master- bzw. Promotionsprojekts.
 ## Modulzuordnung
 
 MA Kuwi Modul 9: Abschlussmodul
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=242801&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=89454"
+target="_blank">Moodle-Kurs</a></abbr>

@@ -5,7 +5,7 @@ description: Begleitendes Kolloquium für Bachelorarbeiten.
 instructor: Prof. Kassung
 year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
-location: GEO 47, Raum N.N.
+location: GEO 47, Raum 4.30
 time: Mi. wöchentlich 14&ndash;16 Uhr
 course_id: bachelorkolloquium
 schedule:
@@ -32,3 +32,10 @@ MA Kuwi Modul 9: Abschlussmodul
 
 Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme (3 LP)
 erworben werden.
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241908&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=92821"
+target="_blank">Moodle-Kurs</a></abbr>
