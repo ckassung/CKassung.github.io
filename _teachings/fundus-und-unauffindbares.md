@@ -9,6 +9,75 @@ location: UDL 6, Raum 3075
 time: Di. wöchentlich 18&ndash;20 Uhr
 course_id: fundus-und-unauffindbares
 schedule:
+  - week: 1
+    date: 14.4.2026
+    topic: Wolfgang Ernst im Gespräch
+    description: 
+
+  - week: 2
+    date: 21.4.2026
+    topic: Miyazaki&#58; Sony-Watchman 1987
+    description:
+
+  - week: 3
+    date: 28.4.2026
+    topic: Erdogan&#58; Licht im Datendunkel
+    description:
+
+  - week: 4
+    date: 5.5.2026
+    topic: Leitner&#58; TODO
+    description:
+
+  - week: 5
+    date: 12.5.2026
+    topic: Dörfling&amp; Maksudyan&#58; Objects of Sonic Solidarities
+    description:
+
+  - week: 6
+    date: 19.5.2026
+    topic: Sprenger&#58; What is it like to be a Robot?
+    description:
+
+  - week: 7
+    date: 26.5.2026
+    topic: Lektürewoche
+    description:
+
+  - week: 8
+    date: 2.6.2026
+    topic: Schäffner&#58; TODO
+    description:
+
+  - week: 9
+    date: 9.6.2026
+    topic: Stock&#58; Objects of Sonic Solidarities
+    description:
+
+  - week: 10 
+    date: 16.6.2026
+    topic: Roy&#58; A gendered handling of the media archive?
+    description:
+
+  - week: 11
+    date: 23.6.2026
+    topic: Köppert&#58; Holographisches Erinnern
+    description:
+
+  - week: 12
+    date: 30.6.2026
+    topic: Wershler&#58; TODO
+    description:
+
+  - week: 13
+    date: 7.7.2026
+    topic: Tkaczyk&#58; TODO
+    description:
+
+  - week: 14
+    date: 14.7.2026
+    topic: Kassung&#58; Der Fundus bebt
+    description:
 ---
 
 ## Kurzbeschreibung
@@ -50,7 +119,7 @@ modellbasierter KI-Technologie.
 Der Besuch dieser Vorlesung setzt keine Studienleistungen voraus.
 Die Vorlesung findet als Präsenzveranstaltung statt und beginnt am 14.4.2026.
 Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
-»Praeludium« an.
+»Dinge« an.
 
 ## Prüfungen
 
@@ -62,3 +131,22 @@ durch Extraleistungen weitere LP nach individueller Absprache (1 LP durch frei
 gewählte Zusatzlektüre mit einseitigem Kurzbericht, mehr LP in Form einer
 schriftlichen oder multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die
 Absprache erfolgt jeweils nach den Vorlesungen oder innerhalb der Sprechstunde.
+
+## Links
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=242944&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag KuWi</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=243702&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag KuWi ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=243581&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag MeWi</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=243859&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag MeWi ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=139451"
+target="_blank">Moodle-Kurs</a></abbr>
+

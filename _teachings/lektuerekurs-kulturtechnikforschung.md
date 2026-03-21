@@ -54,7 +54,7 @@ schedule:
       - name: Nietzsche, Friedrich 1873&#58; Ueber Wahrheit und Lüge im aussermoralischen Sinne
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206504
 
-  - week: 6
+  - week: 7
     date: 26.5.2026
     topic: Lektürewoche
     description: Homo faber
@@ -62,7 +62,7 @@ schedule:
       - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik, S. 40&ndash;73
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216563
 
-  - week: 7
+  - week: 8
     date: 2.6.2026
     topic: Mythen
     description:
@@ -70,7 +70,7 @@ schedule:
       - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur, III&ndash;V
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216575
 
-  - week: 8
+  - week: 9
     date: 9.6.2026
     topic: Körpertechniken
     description:
@@ -78,7 +78,7 @@ schedule:
       - name: Mauss, Marcel 1935&#58; Der Begriff der Technik des Körpers, S. 199&ndash;219
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206508
 
-  - week: 9
+  - week: 10
     date: 16.6.2026
     topic: Phänomenologie
     description:
@@ -86,7 +86,7 @@ schedule:
       - name: Heidegger, Martin 1949&#58; Das Ding
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206509
 
-  - week: 10
+  - week: 11
     date: 23.6.2026
     topic: Bild Schrift Zahl
     description:
@@ -94,7 +94,7 @@ schedule:
       - name: Krämer, Sibylle; Bredekamp, Horst 2003&#58; Kultur, Technik, Kulturtechnik&#58; Wider die Diskursivierung der Kultur
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206510
 
-  - week: 11
+  - week: 12
     date: 30.6.2026
     topic: Medien
     description: 
@@ -102,7 +102,7 @@ schedule:
       - name: Siegert, Bernhard 2010&#58; Türen. Zur Materialität des Symbolischen
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206511
 
-  - week: 12
+  - week: 13
     date: 7.7.2026
     topic: Umwelttechniken
     description:
@@ -110,7 +110,7 @@ schedule:
       - name: Sörlin, Sverker; Wormbs, Nina 2018&#58; Environing technologies
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206512
 
-  - week: 13
+  - week: 14
     date: 14.7.2026
     topic: Homo ferens
     description:

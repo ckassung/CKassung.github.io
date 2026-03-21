@@ -55,7 +55,7 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216554
 
   - week: 6
-    date: 2026
+    date: 19.5.2026
     topic: Observatorium
     description:
     materials: 
@@ -64,12 +64,12 @@ schedule:
       - name: Potsdam-Babelsberg (1899)
       - name: <b>Archenhold-Sternwarte</b> (1896)
 
-  - week: 6
+  - week: 7
     date: 26.5.2026
     topic: Lektürewoche
     description:
 
-  - week: 7
+  - week: 8
     date: 2.6.2026
     topic: Nachbereitung
     description:
@@ -79,14 +79,14 @@ schedule:
       - name: Vogl, Joseph 2001&#58; Medien-Werden&#58; Galileis Fernrohr
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206713
 
-  - week: 8
+  - week: 9
     date: 9.6.2026
     topic: Glühlampe
     description:
     materials: 
       - name: <b>Oberbaum City</b> (1909, Kampffmeyer)
 
-  - week: 9
+  - week: 10 
     date: 16.6.2026
     topic: Nachbereitung
     description:
@@ -96,7 +96,7 @@ schedule:
       - name: Schivelbusch, Wolfgang 2004&#58; Lichtblicke, S. 133&ndash;148
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206714
 
-  - week: 10
+  - week: 11
     date: 23.6.2026
     topic: Rundfunk
     description:
@@ -105,7 +105,7 @@ schedule:
       - name: RIAS-Funkhaus am Hans-Rosenthal-Platz (1938&ndash;1941, Borchard)
       - name: Großfunkstelle Nauen, Muthesiusbau (1920, Muthesius)
 
-  - week: 11
+  - week: 12
     date: 30.6.2026
     topic: Nachbereitung
     description:
@@ -115,14 +115,14 @@ schedule:
       - name: Macho, Thomas 2006&#58; Stimmen ohne Körper
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206716
 
-  - week: 12
+  - week: 13
     date: 7.7.2026
     topic: Computer
     description:
     materials: 
       - name: Z3, <b>Deutsches Technikmuseum Berlin</b> (1941, Zuse)
 
-  - week: 13
+  - week: 14
     date: 14.7.2026
     topic: Nachbereitung
     description:

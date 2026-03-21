@@ -60,7 +60,7 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5204237
       - name: Fürbeth, Frank 2022&#58; Der Mond in der Astrologie, Magie und Medizin des Mittelalter
 
-  - week: 6
+  - week: 7
     date: 27.5.2026
     topic: Lektürewoche
     description:
@@ -68,7 +68,7 @@ schedule:
       - name: Edgerton, Samuel 2006&#58; Brunelleschi’s mirror
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5204238
 
-  - week: 7
+  - week: 8
     date: 3.6.2026
     topic: Frühe Neuzeit&#58; Die Gestalt des Mondes (1)
     description:
@@ -77,7 +77,7 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5214680
       - name: Burrichter, Brigitte 2022&#58; Ritter auf dem Mond
 
-  - week: 8
+  - week: 9
     date: 10.6.2026
     topic: Frühe Neuzeit&#58; Die Gestalt des Mondes (2)
     description:
@@ -87,7 +87,7 @@ schedule:
       - name: Bredekamp, Horst 2015&#58; Galileis denkende Hand, S. 95&ndash;114
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216517
 
-  - week: 9
+  - week: 10
     date: 17.6.2026
     topic: Moderne&#58; Physik des Himmels
     description:
@@ -97,7 +97,7 @@ schedule:
       - name: Kuphal, Eckart 2013&#58; Den Mond neu entdecken, S. 69&ndash;80
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216516
 
-  - week: 10
+  - week: 11
     date: 24.6.2026
     topic: Gegenwart&#58; Lunatics (1)
     description:
@@ -107,7 +107,7 @@ schedule:
       - name: Tryon, Chuck 2015&#58; Iron Sky’s War Bonds
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216520
 
-  - week: 11
+  - week: 12
     date: 1.7.2026
     topic: Gegenwart&#58; Lunatics (2)
     description:
@@ -117,7 +117,7 @@ schedule:
       - name: Kittler, Friedrich 1993&#58; Der Gott der Ohren
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216519
 
-  - week: 12
+  - week: 13
     date: 8.7.2026
     topic: Zukunft&#58; Fly me to the Moon (1)
     description:
@@ -127,7 +127,7 @@ schedule:
       - name: Reiss, Timothy J. 1985&#58; The Discourse of Modernism, S. 140&ndash;167
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216518
 
-  - week: 13
+  - week: 14
     date: 15.7.2026
     topic: Zukunft&#58; Fly me to the Moon (2)
     description:
