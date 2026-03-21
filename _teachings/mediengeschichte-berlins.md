@@ -31,8 +31,8 @@ schedule:
     topic: Nachbereitung
     description:
     materials: 
-      - name: Bredekamp
-        url:
+      - name: Bredekamp, Horst 2007&#58; Die Kunstkammer als Ort spielerischen Ausdrucks
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216553
       - name: Peselmann, Veronica 2016&#58; Enacting public perception in the late 19th century&#58; The Kaiserpanorama
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206711
 
@@ -52,7 +52,7 @@ schedule:
       - name: Dommann, Monika 2016&#58; Umbrüche am Ende der Linotype
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206712
       - name: Schröder, Fritz 1957&#58; Linotype-Brevier
-        url:
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216554
 
   - week: 6
     date: 2026
@@ -75,7 +75,7 @@ schedule:
     description:
     materials: 
       - name: Blumenberg, Hans 1965&#58; Das Fernrohr und die Ohnmacht der Wahrheit
-        url:
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216555
       - name: Vogl, Joseph 2001&#58; Medien-Werden&#58; Galileis Fernrohr
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206713
 
@@ -91,8 +91,8 @@ schedule:
     topic: Nachbereitung
     description:
     materials: 
-      - name: Berz, Peter; Höge, Helmut and Krajewski, Markus 2001&#58; Das Glühbirnenbuch
-        url:
+      - name: Lummer, Otto 1897&#58; Licht und Leuchten
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216562
       - name: Schivelbusch, Wolfgang 2004&#58; Lichtblicke, S. 133&ndash;148
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206714
 
