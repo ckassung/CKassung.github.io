@@ -43,8 +43,8 @@ schedule:
     topic: Homo loquens
     description:
     materials: 
-      - name: Herder, Johann G.v. 1772&#58; Abhandlung über den Ursprung der Sprache
-        url:
+      - name: Herder, Johann G.v. 1772&#58; Abhandlung über den Ursprung der Sprache, Zweiter Teil
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216566
 
   - week: 6
     date: 19.5.2026
@@ -59,16 +59,16 @@ schedule:
     topic: Lektürewoche
     description: Homo faber
     materials: 
-      - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik
-        url:
+      - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik, S. 40&ndash;73
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216563
 
   - week: 7
     date: 2.6.2026
     topic: Mythen
     description:
     materials: 
-      - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur
-        url:
+      - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur, III&ndash;V
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216575
 
   - week: 8
     date: 9.6.2026
