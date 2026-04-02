@@ -5,8 +5,8 @@ description: Begleitendes Kolloquium für Masterarbeiten und Promotionen.
 instructor: Prof. Kassung/Prof. Tkaczyk
 year: Akademisches Jahr 2025/26
 term: Sommersemester 2026
-location: GEO 47, Raum N.N.
-time: Fr. Blockveranstaltung n.V.
+location: GEO 47, Raum 4.30
+time: Blockveranstaltung Fr. 8.5. und 10.7.2026
 course_id: forschungskolloquium
 schedule:
 ---
