@@ -11,13 +11,13 @@ course_id: dark-side-of-the-moon_2026
 schedule:
   - week: 1
     date: 15.4.2026
-    topic: Einführungssitzung&#58; Somnambulismus
+    topic: Einführungssitzung
     description: Eingangsthesen, Seminarstruktur, Leistungsanforderungen.
 
   - week: 2
     date: 22.4.2026
     topic: Lektüre- und Planungssitzung
-    description:
+    description: Somnambulismus
     materials:
       - name: Trapp, Carl 1937&#58; Lunacy and the Moon
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5214058
@@ -34,7 +34,7 @@ schedule:
   - week: 4
     date: 6.5.2026
     topic: Griech.-römische Antike&#58; Mythos und Logos (1)
-    description:
+    description: Mythos
     materials:
       - name: Nonnos von Panopolis&#58; Dionysiaka, 44. Gesang (191&ndash;229)
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5204229
@@ -44,7 +44,7 @@ schedule:
   - week: 5
     date: 13.5.2026
     topic: Griech.-römische Antike&#58; Mythos und Logos (2)
-    description:
+    description: Logos
     materials:
       - name: Plinius d.Ä.&#58; Naturalis historia, 2. Buch, Kap. 6&ndash;11
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5214069
