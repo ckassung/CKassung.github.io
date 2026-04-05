@@ -13,6 +13,9 @@ schedule:
     date: 15.4.2026
     topic: Einführungssitzung
     description: Eingangsthesen, Seminarstruktur, Leistungsanforderungen.
+    materials: 
+      - name: FAZ 4.4.2026
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5245559
 
   - week: 2
     date: 22.4.2026
