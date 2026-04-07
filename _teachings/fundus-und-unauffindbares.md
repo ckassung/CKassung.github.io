@@ -11,32 +11,32 @@ course_id: fundus-und-unauffindbares
 schedule:
   - week: 1
     date: 14.4.2026
-    topic: Wolfgang Ernst im Gespräch
+    topic: Wolfgang Ernst (HU Berlin)&#58; Der Medienarchäologische Fundus&ndash; eine Verortung, mit anschließender Diskussion
     description: 
 
   - week: 2
     date: 21.4.2026
-    topic: Miyazaki&#58; Sony-Watchman 1987
+    topic: Shintaro Miyazaki (HU Berlin)&#58; Sony-Watchman 1987. Eine kritische Medienarchäologie des Japanischen Taschenfernsehers?
     description:
 
   - week: 3
     date: 28.4.2026
-    topic: Erdogan&#58; Licht im Datendunkel
+    topic: Julia Erdogan (HU Berlin)&#58; Licht im Datendunkel. Ein EPROM-Eraser und eine Kulturgeschichte des Vergessens
     description:
 
   - week: 4
     date: 5.5.2026
-    topic: Leitner&#58; TODO
+    topic: Florian Leitner (HU Berlin)&#58; Medienarchäologische Performanz im medienästhetische Performance&#58; Fundus und Medientheater
     description:
 
   - week: 5
     date: 12.5.2026
-    topic: Dörfling&amp; Maksudyan&#58; Objects of Sonic Solidarities
+    topic: Christina Dörfling (HU Berliln) &amp; Nazan Dekolonisierung in Westafrika Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
     description:
 
   - week: 6
     date: 19.5.2026
-    topic: Sprenger&#58; What is it like to be a Robot?
+    topic: Florian Sprenger (Ruhr Universität Bochumg)&#58; What is it like to be a Robot?
     description:
 
   - week: 7
@@ -46,37 +46,37 @@ schedule:
 
   - week: 8
     date: 2.6.2026
-    topic: Schäffner&#58; TODO
+    topic: Wolfgang Schäffner (HU Berlin) &#58; Der Kymograph
     description:
 
   - week: 9
     date: 9.6.2026
-    topic: Stock&#58; Objects of Sonic Solidarities
+    topic: Robert Stock (HU Berlin) &#58; Objects of Sonic Solidarities
     description:
 
   - week: 10 
     date: 16.6.2026
-    topic: Roy&#58; A gendered handling of the media archive?
+    topic: Elodie A. Roy (Durham University)&#58; A gendered handling of the media archive
     description:
 
   - week: 11
     date: 23.6.2026
-    topic: Köppert&#58; Holographisches Erinnern
+    topic: Kat Köppert (HGB Leipzig)&#58; Holographisches Erinnern
     description:
 
   - week: 12
     date: 30.6.2026
-    topic: Wershler&#58; TODO
+    topic: Darren Wershler (Concordia University Montreal)&#58; The Heretical Collection Machine
     description:
 
   - week: 13
     date: 7.7.2026
-    topic: Tkaczyk&#58; TODO
+    topic: Viktoria Tkaczyk (HU Berlin)&#58; Universität ohne Territorium? Radio und Dekolonisierung in Westafrika
     description:
 
   - week: 14
     date: 14.7.2026
-    topic: Kassung&#58; Der Fundus bebt
+    topic: Christian Kassung Kassung (HU Berlin)&#58; Der Fundus bebt. Seismische Aufzeichnungen im Kupfergraben und in der Barentsee
     description:
 ---
 
