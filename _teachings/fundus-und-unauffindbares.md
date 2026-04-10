@@ -31,12 +31,12 @@ schedule:
 
   - week: 5
     date: 12.5.2026
-    topic: Christina Dörfling (HU Berliln) &amp; Nazan Dekolonisierung in Westafrika Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
+    topic: Christina Dörfling (HU Berliln) &amp; Nazan Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
     description:
 
   - week: 6
     date: 19.5.2026
-    topic: Florian Sprenger (Ruhr Universität Bochumg)&#58; What is it like to be a Robot?
+    topic: Florian Sprenger (Ruhr-Universität Bochumg)&#58; What is it like to be a Robot?
     description:
 
   - week: 7
@@ -61,7 +61,7 @@ schedule:
 
   - week: 11
     date: 23.6.2026
-    topic: Kat Köppert (HGB Leipzig)&#58; Holographisches Erinnern
+    topic: Kat Köppert (HU Berlin/HGB Leipzig)&#58; Holographisches Erinnern
     description:
 
   - week: 12
@@ -76,7 +76,7 @@ schedule:
 
   - week: 14
     date: 14.7.2026
-    topic: Christian Kassung Kassung (HU Berlin)&#58; Der Fundus bebt. Seismische Aufzeichnungen im Kupfergraben und in der Barentsee
+    topic: Christian Kassung (HU Berlin)&#58; Der Fundus bebt. Seismische Aufzeichnungen im Kupfergraben und in der Barentsee
     description:
 ---
 
