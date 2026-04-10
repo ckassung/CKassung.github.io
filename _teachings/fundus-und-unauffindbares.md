@@ -31,12 +31,12 @@ schedule:
 
   - week: 5
     date: 12.5.2026
-    topic: Christina Dörfling (HU Berliln) &amp; Nazan Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
+    topic: Christina Dörfling (HU Berlin) &amp; Nazan Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
     description:
 
   - week: 6
     date: 19.5.2026
-    topic: Florian Sprenger (Ruhr-Universität Bochumg)&#58; What is it like to be a Robot?
+    topic: Florian Sprenger (Ruhr-Universität Bochum)&#58; What is it like to be a Robot?
     description:
 
   - week: 7
