@@ -19,7 +19,7 @@ schedule:
 
   - week: 2
     date: 22.4.2026
-    topic: Lektüre- und Planungssitzung
+    topic: fällt aus wg. FR-Sitzung
     description: Somnambulismus
     materials:
       - name: Trapp, Carl 1937&#58; Lunacy and the Moon

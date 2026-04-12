@@ -76,7 +76,7 @@ schedule:
 
   - week: 14
     date: 14.7.2026
-    topic: Christian Kassung (HU Berlin)&#58; Der Fundus bebt. Seismische Aufzeichnungen im Kupfergraben und in der Barentsee
+    topic: Christian Kassung (HU Berlin)&#58; Der Fundus bebt. Seismische Aufzeichnungen im Kupfergraben und in der Barentssee
     description:
 ---
 
