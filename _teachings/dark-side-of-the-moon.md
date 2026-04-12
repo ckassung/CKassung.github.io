@@ -16,6 +16,8 @@ schedule:
     materials: 
       - name: FAZ 4.4.2026
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5245559
+      - name: FAZ 8.4.2026
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5278441
 
   - week: 2
     date: 22.4.2026
