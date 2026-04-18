@@ -148,8 +148,11 @@ MA-Modul 1: Berliner Kulturwissenschaft
 ## Prüfungen
 
 Im Seminar kann ein Teilnahmeschein (3 LP) durch regelmäßige Teilnahme und
-Protokollierung einer Seminarsitzung erworben wie auch eine
-Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden.
+Protokollierung einer Seminarsitzung erworben werden. Da da Modul mit
+bestanden/nicht bestanden abgeschlossen wird, erfolgt die Modulabschlussprüfung
+in Form einer mündlichen Prüfung am 14.7.2026 zwischen 10 und 14 Uhr (erster
+Prüfungszeitraum) bzw. am 13.10. zwischen 16 und 18 Uhr (zweiter
+Prüfungszeitraum).
 
 ## Links
 

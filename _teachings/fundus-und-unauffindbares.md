@@ -16,27 +16,27 @@ schedule:
 
   - week: 2
     date: 21.4.2026
-    topic: Shintaro Miyazaki (HU Berlin)&#58; Sony-Watchman 1987. Eine kritische Medienarchäologie des Japanischen Taschenfernsehers?
+    topic: Shintaro Miyazaki (HU Berlin)&#58; Sony Watchman 1987. Eine kritische Medienarchäologie des japanischen Taschenfernsehers?
     description:
 
   - week: 3
     date: 28.4.2026
-    topic: Julia Erdogan (HU Berlin)&#58; Licht im Datendunkel. Ein EPROM-Eraser und eine Kulturgeschichte des Vergessens
+    topic: Julia Gül Erdogan (HU Berlin)&#58; Licht im Datendunkel. Ein EPROM-Eraser und eine Kulturgeschichte des Vergessens
     description:
 
   - week: 4
     date: 5.5.2026
-    topic: Florian Leitner (HU Berlin)&#58; Medienarchäologische Performanz im medienästhetische Performance&#58; Fundus und Medientheater
+    topic: Florian Leitner (HU Berlin)&#58; Medienarchäologische Performanz und medienästhetische Performance&#58; Fundus und Medientheater
     description:
 
   - week: 5
     date: 12.5.2026
-    topic: Christina Dörfling (HU Berlin) &amp; Nazan Maksudyan (FU Berlin)&#58; Practicing Material and Community through Stylophone and Tape Letter
+    topic: Christina Dörfling (HU Berlin) &amp; Nazan Maksudyan (FU Berlin)&#58; Objects of Sonic Solidarities. Practicing Material and Community through Stylophone and Tape Letter
     description:
 
   - week: 6
     date: 19.5.2026
-    topic: Florian Sprenger (Ruhr-Universität Bochum)&#58; What is it like to be a Robot?
+    topic: Florian Sprenger (Ruhr-Universität Bochum)&#58; What is it like to be a Robot? Ein spekulatives Experiment in skalarer Übersetzung
     description:
 
   - week: 7
@@ -46,22 +46,22 @@ schedule:
 
   - week: 8
     date: 2.6.2026
-    topic: Wolfgang Schäffner (HU Berlin) &#58; Der Kymograph
+    topic: Wolfgang Schäffner (HU Berlin) &#58; Der Kymograph. Eine Medienrevolution im 19. Jahrhundert
     description:
 
   - week: 9
     date: 9.6.2026
-    topic: Robert Stock (HU Berlin) &#58; Objects of Sonic Solidarities
+    topic: Robert Stock (HU Berlin) &#58; Ultraschall-Sensorik. Nichtmenschliche, technische und menschliche Praktiken der Echoortung
     description:
 
   - week: 10 
     date: 16.6.2026
-    topic: Elodie A. Roy (Durham University)&#58; A gendered handling of the media archive
+    topic: Elodie A. Roy (Durham University)&#58; A Gendered Handling of the Media Archive? Recovering Latent Feminine Labour in Sonic Technologies
     description:
 
   - week: 11
     date: 23.6.2026
-    topic: Kat Köppert (HU Berlin/HGB Leipzig)&#58; Holographisches Erinnern
+    topic: Katrin Köppert (HU Berlin/HGB Leipzig)&#58; Holographisches Erinnern. Eine tentative Medienarchäologie der Gespenster der Gegenwart
     description:
 
   - week: 12

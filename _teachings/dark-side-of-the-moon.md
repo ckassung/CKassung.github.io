@@ -34,7 +34,8 @@ schedule:
     materials:
       - name: Leroi-Gourhan 1964&ndash;1965&#58; Raum und Zeit, S. 387&ndash;412
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5204242
-      - name: Meller, Harald (Hrsg.) 2004&#58; Der geschmiedete Himmel
+      - name: Meller, Harald (Hrsg.) 2004&#58; Der geschmiedete Himmel, S. 22&ndash;51
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5306620
 
   - week: 4
     date: 6.5.2026
@@ -64,6 +65,7 @@ schedule:
       - name: Paracelsus, 1567&#58; Von den kranckheyten so die vernunfft berauben
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5204237
       - name: Fürbeth, Frank 2022&#58; Der Mond in der Astrologie, Magie und Medizin des Mittelalter
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5306511
 
   - week: 7
     date: 27.5.2026
@@ -81,6 +83,7 @@ schedule:
       - name: Ariosto, Ludovico 1516&#58; Der rasende Roland, Astolfo auf dem Mond
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5214680
       - name: Burrichter, Brigitte 2022&#58; Ritter auf dem Mond
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5306513
 
   - week: 9
     date: 10.6.2026
