@@ -42,7 +42,8 @@ schedule:
     description:
     materials: 
       - name: Mossehaus (1921&ndash;1923, Mendelsohn/Neutra)                                     
-      - name: <b>Ullsteinhaus</b> (1925&ndash;1927, Schmohl)
+      - name: Ullsteinhaus (1925&ndash;1927, Schmohl)
+      - name: Deutsches Technikmuseum Berlin, Drucktechnik
 
   - week: 5
     date: 12.5.2026
@@ -59,10 +60,9 @@ schedule:
     topic: Observatorium
     description:
     materials: 
-      - name: Berliner Sternwarte Marstall Dorotheenstadt (1711)
-      - name: Neue Sternwarte Friedrichstadt (1835)
+      - name: Berliner Sternwarte Marstall Dorotheenstadt (1711), Neue Sternwarte Friedrichstadt (1835)
       - name: Potsdam-Babelsberg (1899)
-      - name: <b>Archenhold-Sternwarte</b> (1896)
+      - name: Archenhold-Sternwarte (1896)
 
   - week: 7
     date: 26.5.2026
@@ -81,10 +81,12 @@ schedule:
 
   - week: 9
     date: 9.6.2026
-    topic: Glühlampe
+    topic: Stadtbeleuchtung
     description:
     materials: 
-      - name: <b>Oberbaum City</b> (1909, Kampffmeyer)
+      - name: Oberbaum City (1909, Kampffmeyer)
+      - name: Heizkraftwerk Klingenberg (1927, Klingenberg/Issel)
+      - name: AEG Oberschöneweide (1899&ndash;1917, Tropp, Ziesel, Behrens)
 
   - week: 10 
     date: 16.6.2026
@@ -101,9 +103,9 @@ schedule:
     topic: Rundfunk
     description:
     materials: 
-      - name: <b>Haus des Rundfunks</b> (1929&ndash;1931, Poelzig)
+      - name: Haus des Rundfunks (1929&ndash;1931, Poelzig)
       - name: RIAS-Funkhaus am Hans-Rosenthal-Platz (1938&ndash;1941, Borchard)
-      - name: Großfunkstelle Nauen, Muthesiusbau (1920, Muthesius)
+      - name: Großfunkstelle Nauen Muthesiusbau (1920, Muthesius),  Windhoek/Swapokmund/Lüderitz
 
   - week: 12
     date: 30.6.2026
@@ -120,7 +122,9 @@ schedule:
     topic: Computer
     description:
     materials: 
-      - name: Z3, <b>Deutsches Technikmuseum Berlin</b> (1941, Zuse)
+      - name: Z3, Deutsches Technikmuseum Berlin (1941, Zuse)
+      - name: Medienarchäologischer Fundus HU Berlin
+      - name: DEHOMAG Lichterfelde (1934)
 
   - week: 14
     date: 14.7.2026
@@ -167,6 +171,9 @@ Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden.
 
 ## Links
 
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/mod/ratingallocate/view.php?id=5321141"
+target="_blank">Referatsplanung</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241906&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
