@@ -35,8 +35,10 @@ schedule:
     topic: Verum et factum
     description:
     materials: 
-      - name: Vico, Giambattista 1740&#58; Die neue Wissenschaft über die gemeinschaftliche Natur der Völker, S. 43&ndash;72
+      - name: Vico, Giambattista 1744&#58; Die neue Wissenschaft über die gemeinschaftliche Natur der Völker, S. 43&ndash;72
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206267
+      - name: Vico, Giambattista 1744&#58; Frontispiz
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5331154
 
   - week: 5
     date: 12.5.2026

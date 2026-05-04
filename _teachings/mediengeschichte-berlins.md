@@ -11,12 +11,12 @@ course_id: mediengeschichte-berlins
 schedule:
   - week: 1
     date: 14.4.2026
-    topic: Einführungssitzung
+    topic: Einführungssitzung, Seminar GEO 47
     description: 
 
   - week: 2
     date: 21.4.2026
-    topic: Historische Mitte
+    topic: Historische Mitte, Gruppenexkursionen
     description:
     materials: 
       - name: Staatsoper Unter den Linden (1741&ndash;1743, Knobelsdorff)
@@ -28,7 +28,7 @@ schedule:
 
   - week: 3
     date: 28.4.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Bredekamp, Horst 2007&#58; Die Kunstkammer als Ort spielerischen Ausdrucks
@@ -38,7 +38,7 @@ schedule:
 
   - week: 4
     date: 5.5.2026
-    topic: Zeitung
+    topic: Zeitung, Gruppenexkursionen
     description:
     materials: 
       - name: Mossehaus (1921&ndash;1923, Mendelsohn/Neutra)                                     
@@ -47,7 +47,7 @@ schedule:
 
   - week: 5
     date: 12.5.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Dommann, Monika 2016&#58; Umbrüche am Ende der Linotype
@@ -57,7 +57,7 @@ schedule:
 
   - week: 6
     date: 19.5.2026
-    topic: Observatorium
+    topic: Observatorium, Gruppenexkursionen
     description:
     materials: 
       - name: Berliner Sternwarte Marstall Dorotheenstadt (1711), Neue Sternwarte Friedrichstadt (1835)
@@ -71,7 +71,7 @@ schedule:
 
   - week: 8
     date: 2.6.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Blumenberg, Hans 1965&#58; Das Fernrohr und die Ohnmacht der Wahrheit
@@ -81,7 +81,7 @@ schedule:
 
   - week: 9
     date: 9.6.2026
-    topic: Stadtbeleuchtung
+    topic: Stadtbeleuchtung, Gruppenexkursionen
     description:
     materials: 
       - name: Oberbaum City (1909, Kampffmeyer)
@@ -90,7 +90,7 @@ schedule:
 
   - week: 10 
     date: 16.6.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Lummer, Otto 1897&#58; Licht und Leuchten
@@ -100,7 +100,7 @@ schedule:
 
   - week: 11
     date: 23.6.2026
-    topic: Rundfunk
+    topic: Rundfunk, Gruppenexkursionen
     description:
     materials: 
       - name: Haus des Rundfunks (1929&ndash;1931, Poelzig)
@@ -109,7 +109,7 @@ schedule:
 
   - week: 12
     date: 30.6.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Hagen, Wolfgang 1991&#58; Der Radioruf. Zu Diskurs und Geschichte des Hörfunks
@@ -119,7 +119,7 @@ schedule:
 
   - week: 13
     date: 7.7.2026
-    topic: Computer
+    topic: Computer, Gruppenexkursionen
     description:
     materials: 
       - name: Z3, Deutsches Technikmuseum Berlin (1941, Zuse)
@@ -128,7 +128,7 @@ schedule:
 
   - week: 14
     date: 14.7.2026
-    topic: Nachbereitung
+    topic: Nachbereitung, Seminar GEO 47
     description:
     materials: 
       - name: Bush, Vannevar 1945&#58; As We May Think
