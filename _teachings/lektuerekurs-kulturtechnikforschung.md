@@ -46,7 +46,7 @@ schedule:
     description:
     materials: 
       - name: Herder, Johann G.v. 1772&#58; Abhandlung über den Ursprung der Sprache, Zweiter Teil
-        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216566
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337453
 
   - week: 6
     date: 19.5.2026
@@ -62,7 +62,7 @@ schedule:
     description: Homo faber
     materials: 
       - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik, S. 40&ndash;73
-        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216563
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337455
 
   - week: 8
     date: 2.6.2026
@@ -70,7 +70,7 @@ schedule:
     description:
     materials: 
       - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur, III&ndash;V
-        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5216575
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337457
 
   - week: 9
     date: 9.6.2026
