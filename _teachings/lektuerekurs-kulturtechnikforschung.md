@@ -64,59 +64,27 @@ schedule:
       - name: Kapp, Ernst 1877&#58; Grundlinien einer Philosophie der Technik, S. 40&ndash;73
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337455
 
-  - week: 8
-    date: 2.6.2026
-    topic: Mythen
+  - week: Block
+    date: 2.7.2026, 14&ndash;18 Uhr
+    topic: Mythen, Körpertechniken, Phänomenologie
     description:
     materials: 
       - name: Freud, Sigmund 1930&#58; Das Unbehagen in der Kultur, III&ndash;V
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337457
-
-  - week: 9
-    date: 9.6.2026
-    topic: Körpertechniken
-    description:
-    materials: 
       - name: Mauss, Marcel 1935&#58; Der Begriff der Technik des Körpers, S. 199&ndash;219
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206508
-
-  - week: 10
-    date: 16.6.2026
-    topic: Phänomenologie
-    description:
-    materials: 
       - name: Heidegger, Martin 1949&#58; Das Ding
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206509
 
-  - week: 11
-    date: 23.6.2026
-    topic: Bild Schrift Zahl
+  - week: Block
+    date: 9.7.2026, 14&ndash;18 Uhr
+    topic: Bild Schrift Zahl, Medien, Homo ferens
     description:
     materials: 
       - name: Krämer, Sibylle; Bredekamp, Horst 2003&#58; Kultur, Technik, Kulturtechnik&#58; Wider die Diskursivierung der Kultur
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206510
-
-  - week: 12
-    date: 30.6.2026
-    topic: Medien
-    description: 
-    materials: 
       - name: Siegert, Bernhard 2010&#58; Türen. Zur Materialität des Symbolischen
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206511
-
-  - week: 13
-    date: 7.7.2026
-    topic: Umwelttechniken
-    description:
-    materials: 
-      - name: Sörlin, Sverker; Wormbs, Nina 2018&#58; Environing technologies
-        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206512
-
-  - week: 14
-    date: 14.7.2026
-    topic: Homo ferens
-    description:
-    materials: 
       - name: Le Guin, Ursula 1988&#58; The Carrier Bag Theory of Fiction
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206513
 ---
