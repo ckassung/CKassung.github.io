@@ -65,7 +65,7 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5337455
 
   - week: Block
-    date: 2.7.2026, 14&ndash;18 Uhr
+    date: 2.7.2026, 14&ndash;18 Uhr, R 4.06
     topic: Mythen, Körpertechniken, Phänomenologie
     description:
     materials: 
@@ -77,7 +77,7 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5206509
 
   - week: Block
-    date: 9.7.2026, 14&ndash;18 Uhr
+    date: 9.7.2026, 14&ndash;18 Uhr, R. 4.06
     topic: Bild Schrift Zahl, Medien, Homo ferens
     description:
     materials: 
