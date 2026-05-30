@@ -412,6 +412,26 @@ ninja.data = [{
           description: "Eine Kultur- und Wissensgeschichte des Wirbels, seit 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vortex/";
+            },},{id: "teachings-einführung-in-die-kulturgeschichte-vl",
+          title: 'Einführung in die Kulturgeschichte (VL)',
+          description: "Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der Leitfrage, wie das Zusammenspiel von Praktiken, Dingen und Wissen das Verhältnis von Natur und Kultur geprägt hat",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2025-26_einfuehrung-kulturgeschichte/";
+            },},{id: "teachings-bachelorkolloquium-co",
+          title: 'Bachelorkolloquium (CO)',
+          description: "Begleitendes Kolloquium für Bachelorarbeiten.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2026-27_bachelorkolloquium/";
+            },},{id: "teachings-einführung-in-die-kulturgeschichte-vl",
+          title: 'Einführung in die Kulturgeschichte (VL)',
+          description: "Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der drei Leitbegriffe Fakten, Quellen und Strukturen.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2026-27_einfuehrung-kulturgeschichte/";
+            },},{id: "teachings-forschungskolloquium-co",
+          title: 'Forschungskolloquium (CO)',
+          description: "Begleitendes Kolloquium für Masterarbeiten und Promotionen.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2026-27_forschungskolloquium/";
             },},{id: "teachings-bachelorkolloquium-co",
           title: 'Bachelorkolloquium (CO)',
           description: "Begleitendes Kolloquium für Bachelorarbeiten.",
@@ -422,11 +442,6 @@ ninja.data = [{
           description: "Mystifizierung und Rationalisierung des Mondes als europäische Wissens- und Kulturgeschichte.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/dark-side-of-the-moon/";
-            },},{id: "teachings-einführung-in-die-kulturgeschichte-vl",
-          title: 'Einführung in die Kulturgeschichte (VL)',
-          description: "Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der Leitfrage, wie das Zusammenspiel von Praktiken, Dingen und Wissen das Verhältnis von Natur und Kultur geprägt hat",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/einfuehrung-kulturgeschichte/";
             },},{id: "teachings-forschungskolloquium-co",
           title: 'Forschungskolloquium (CO)',
           description: "Begleitendes Kolloquium für Masterarbeiten und Promotionen.",
