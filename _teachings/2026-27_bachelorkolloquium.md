@@ -26,7 +26,7 @@ Präsenzveranstaltung statt und beginnt am 14.10.2026.
 
 ## Modulzuordnung
 
-MA Kuwi Modul 9: Abschlussmodul
+BA Kuwi Modul 9: Abschlussmodul
 
 ## Prüfungen
 
