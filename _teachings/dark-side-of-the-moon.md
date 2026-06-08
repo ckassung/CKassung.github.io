@@ -21,7 +21,7 @@ schedule:
 
   - week: 2
     date: 22.4.2026
-    topic: fällt aus wg. FR-Sitzung
+    topic: fällt aus wg. Fakultätsratssitzung
     description: Somnambulismus
     materials:
       - name: Trapp, Carl 1937&#58; Lunacy and the Moon
@@ -87,8 +87,8 @@ schedule:
 
   - week: 9
     date: 10.6.2026
-    topic: Frühe Neuzeit&#58; Die Gestalt des Mondes (2)
-    description:
+    topic: fällt aus wg. Fakultätsratssitzung
+    description: Frühe Neuzeit&#58; Die Gestalt des Mondes (2)
     materials:
       - name: Galilei, Galilei 1610&#58; Sidereus Nuncius
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5214682
