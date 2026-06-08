@@ -412,6 +412,11 @@ ninja.data = [{
           description: "Eine Kultur- und Wissensgeschichte des Wirbels, seit 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vortex/";
+            },},{id: "teachings-turn-turn-turn-se",
+          title: 'Turn! Turn? Turn! (SE)',
+          description: "Einführung in die Geschichte der Paradigmenwechsel",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2024-25_turn-turn-turn/";
             },},{id: "teachings-einführung-in-die-kulturgeschichte-vl",
           title: 'Einführung in die Kulturgeschichte (VL)',
           description: "Kulturhistorischer Überblick von der Neolithischen Revolution bis 1970er Jahre anhand der Leitfrage, wie das Zusammenspiel von Praktiken, Dingen und Wissen das Verhältnis von Natur und Kultur geprägt hat",
