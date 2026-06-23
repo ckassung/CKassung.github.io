@@ -176,9 +176,17 @@ MA-Modul 3: Kulturen des Wissens
 
 ## Prüfungen
 
-Im Seminar kann ein Teilnahmeschein (3 LP) durch regelmäßige
-Teilnahme und Inputreferat zu einer Seminarsitzung erworben wie auch eine
-Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden.
+Im Seminar kann ein Teilnahmeschein (3 LP) durch regelmäßige Teilnahme und
+Inputreferat zu einer Seminarsitzung erworben wie auch eine
+Modulabschlussprüfung durch eine Hausarbeit (4 LP) abgelegt werden. Die
+Themenabsprache zur MAP erfolgt innerhalb der Sprechstunde. 
+
+## Termine                                                                      
+                                                                                
+Die Anmeldung zur Modulabschlussprüfung im ersten Prüfungszeitraum ist vom 1.
+bis 30.6.2026 möglich, die Arbeiten sind dann bis zum 30.9.2026 abzugeben. Für
+den zweiten Prüfungszeitraum ist die Anmeldefrist der 2. bis 13.11.2026, die
+Abgabe kann in diesem Fall bis zum 4.1.2027 erfolgen.
 
 ## Links
 

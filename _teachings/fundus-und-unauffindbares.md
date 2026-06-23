@@ -124,13 +124,24 @@ Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
 ## Prüfungen
 
 Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP) erworben und
-zusätzlich eine Modulabschlussprüfung mit einem eigenen Beitrag etwa in Form
-einer Studie zu einem vorhandenen Sammlungsobjekt oder eines begründeten
-Anschaffungsvorschlags (4 LP) abgelegt werden. Im ÜWP-Bereich ist es möglich,
-durch Extraleistungen weitere LP nach individueller Absprache (1 LP durch frei
-gewählte Zusatzlektüre mit einseitigem Kurzbericht, mehr LP in Form einer
-schriftlichen oder multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die
-Absprache erfolgt jeweils nach den Vorlesungen oder innerhalb der Sprechstunde.
+zusätzlich eine Modulabschlussprüfung mit einem eigenen Beitrag zu einem
+vorhandenen Sammlungsobjekt oder einem begründeten Anschaffungsvorschlag (4 LP)
+abgelegt werden. Als Format kann zwischen einer regulären Hausarbeit und einer
+multimedialen Präsentation gewählt werden. Die Themenabsprache zur MAP erfolgt
+innerhalb der Sprechstunde.
+
+Im ÜWP-Bereich ist es möglich, durch Extraleistungen weitere LP nach
+individueller Absprache (1 LP durch frei gewählte Zusatzlektüre mit einseitigem
+Kurzbericht, mehr LP in Form einer schriftlichen oder multimedialen Arbeit
+entsprechend Aufwand) zu erwerben. Die Absprache hierzu kann im Anschluß an
+eine der Vorlesungen oder alternativ in der Sprechstunde erfolgen.
+
+## Termine
+
+Die Anmeldung zur Modulabschlußprüfung im ersten Prüfungszeitraum ist vom 1.
+bis 30.6.2026 möglich, die Arbeiten sind dann bis zum 30.9.2026 abzugeben. Für
+den zweiten Prüfungszeitraum ist die Anmeldefrist der 2. bis 13.11.2026, die
+Abgabe kann in diesem Fall bis zum 4.1.2027 erfolgen.
 
 ## Links
 
