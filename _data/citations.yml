@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-10'
 papers:
   7VfSCT4AAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -67,10 +67,10 @@ papers:
     year: '2019'
   7VfSCT4AAAAJ:NaGl4SEjCO4C:
     citations: 9
-    title: How to hear the forum Romanum. On historical realities and aural augmentation
+    title: 'How to hear the forum Romanum: On historical realities and aural augmentation'
     year: '2016'
   7VfSCT4AAAAJ:O3NaXMp0MMsC:
-    citations: 3
+    citations: 2
     title: Navigating Noise
     year: '2017'
   7VfSCT4AAAAJ:P5F9QuxV20EC:
@@ -105,6 +105,10 @@ papers:
     citations: 1
     title: "Maschinen und Mechanisierung in der Bildungsgeschichte: Einf\xFChrung in den Thementeil"
     year: '2015'
+  7VfSCT4AAAAJ:XiVPGOgt02cC:
+    citations: 5
+    title: Die Zukunft des Wissens und eine Geschichte der Patente
+    year: '2011'
   7VfSCT4AAAAJ:Y0pCki6q_DkC:
     citations: 12
     title: "Wissensgeschichte als Malerarbeit? Ein Trialog \xFCber das Wei\xDFeln schwarzer Kisten"
@@ -114,11 +118,11 @@ papers:
     title: "Elektrische Spuren. \xDCberlegungen zu einer Medien- und Wissensgeschichte technischer St\xF6rf\xE4lle"
     year: '2011'
   7VfSCT4AAAAJ:Zph67rFs4hoC:
-    citations: 58
+    citations: 57
     title: 'EntropieGeschichten: Robert Musils "Der Mann ohne Eigenschaften" im Diskurs der modernen Physik'
     year: '2001'
   7VfSCT4AAAAJ:_FxGoFyzp5QC:
-    citations: 12
+    citations: 11
     title: Synchronisationsprobleme
     year: '2003'
   7VfSCT4AAAAJ:_Qo2XoVZTnwC:
@@ -129,12 +133,16 @@ papers:
     citations: 14
     title: Das Pendel. Eine Wissensgeschichte
     year: '2007'
+  7VfSCT4AAAAJ:bnK-pcrLprsC:
+    citations: 11
+    title: The Contemporary Feminist Movement in Russia Action, Community, and Difference
+    year: '2021'
   7VfSCT4AAAAJ:cFHS6HbyZ2cC:
     citations: 0
     title: "Culture and Computer Science\u2013Physical and Virtual Spaces"
     year: '2022'
   7VfSCT4AAAAJ:d1gkVwhDpl0C:
-    citations: 6
+    citations: 5
     title: Kulturtechniken der Synchronisation
     year: '2013'
   7VfSCT4AAAAJ:eQOLeE2rZwMC:
@@ -146,7 +154,7 @@ papers:
     title: "Jahrbuch f\xFCr Historische Bildungsforschung 2014. Schwerpunkt Maschinen"
     year: '2015'
   7VfSCT4AAAAJ:g5m5HwL7SMYC:
-    citations: 36
+    citations: 32
     title: 'Die Unordnung der Dinge: Eine Wissens-und Mediengeschichte des Unfalls'
     year: '2009'
   7VfSCT4AAAAJ:geHnlv5EZngC:
@@ -154,7 +162,7 @@ papers:
     title: 'Theorie des Filterns: Zur Programmatik eines Experimentalsystems'
     year: '2021'
   7VfSCT4AAAAJ:hFOr9nPyWt4C:
-    citations: 4
+    citations: 3
     title: Animal Machines. Eine Falle ist kein Ge-Stell
     year: '2012'
   7VfSCT4AAAAJ:hqOjcs7Dif8C:
@@ -166,7 +174,7 @@ papers:
     title: "Mit den Haaren h\xF6ren"
     year: '2015'
   7VfSCT4AAAAJ:kRWSkSYxWN8C:
-    citations: 0
+    citations: 1
     title: 'Was bleibt und was nicht bleibt: Eine sehr kurze Geschichte der Energie'
     year: '2014'
   7VfSCT4AAAAJ:lSLTfruPkqcC:
@@ -181,6 +189,10 @@ papers:
     citations: 0
     title: zur Erlangung des akademischen Grades doctor philosophiae (Dr. phil.)
     year: '2012'
+  7VfSCT4AAAAJ:olpn-zPbct0C:
+    citations: 0
+    title: "Mit den Haaren h\xF6ren. 1832-2014-1897"
+    year: '2015'
   7VfSCT4AAAAJ:p2g8aNsByqUC:
     citations: 2
     title: 'Struktur und Ereignis: Ein Synchronisationsproblem'
