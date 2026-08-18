@@ -333,7 +333,12 @@ ninja.data = [{
           title: 'Max Planck',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/max_planck/";
+              window.location.href = "/books/max-planck/";
+            },},{id: "books-die-nacht-der-physiker",
+          title: 'Die Nacht der Physiker',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nacht-der-physiker/";
             },},{id: "news-stellenausschreibung-videoproduktion-am-exzellenzcluster-matters-of-activity",
           title: 'Stellenausschreibung Videoproduktion am Exzellenzcluster »Matters of Activity«',
           description: "",
@@ -412,6 +417,11 @@ ninja.data = [{
           description: "Eine Kultur- und Wissensgeschichte des Wirbels, seit 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vortex/";
+            },},{id: "teachings-essen-im-film-vl",
+          title: 'Essen im Film (VL)',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2021-22_essen-im-film/";
             },},{id: "teachings-turn-turn-turn-se",
           title: 'Turn! Turn? Turn! (SE)',
           description: "Einführung in die Geschichte der Paradigmenwechsel",
