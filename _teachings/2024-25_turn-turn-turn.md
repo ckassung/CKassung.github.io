@@ -55,9 +55,8 @@ Referats (3 LP) erworben wie auch eine Modulabschlussprüfung durch eine
 Hausarbeit (4 LP) abgelegt werden.
 
 
-
 {% comment %}
-## Links
+## Weiterführende Links
 
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/mod/ratingallocate/view.php?id=5321141"

@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2026-03-22 10:11:00-0400
+date: 2026-09-03 10:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Sprechstunden finden ab Semesterbeginn wöchentlich mittwochs um 16 Uhr statt.
-Bitte melden Sie sich hierzu bei <a
+Sprechstunden finden ab Beginn des Wintersemesters wieder wöchentlich dienstags
+um 16 Uhr statt. Bitte melden Sie sich hierzu bei <a
 href="mailto:christiane.gaedicke@rz.hu-berlin.de">Frau Gaedicke per E-Mail</a>
 unter an.
 

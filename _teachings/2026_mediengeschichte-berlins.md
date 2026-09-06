@@ -177,7 +177,7 @@ bis 30.6.2026 möglich, die Arbeiten sind dann bis zum 30.9.2026 abzugeben. Für
 den zweiten Prüfungszeitraum ist die Anmeldefrist der 2. bis 13.11.2026, die
 Abgabe kann in diesem Fall bis zum 4.1.2027 erfolgen. 
 
-## Links
+## Weiterführende Links
 
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/mod/ratingallocate/view.php?id=5321141"

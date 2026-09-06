@@ -124,7 +124,7 @@ in Form einer mündlichen Prüfung am 14.7.2026 zwischen 10 und 14 Uhr (erster
 Prüfungszeitraum) bzw. am 13.10. zwischen 16 und 18 Uhr (zweiter
 Prüfungszeitraum).
 
-## Links
+## Weiterführende Links
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"

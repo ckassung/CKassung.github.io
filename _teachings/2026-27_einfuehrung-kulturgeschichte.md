@@ -11,23 +11,6 @@ course_id: 2026-27_einfuehrung-kulturgeschichte
 schedule:
 ---
 
-{% comment %}
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=234919&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag</a></abbr>
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=237515&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag ÜWP</a></abbr>
-<abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=136788"
-target="_blank">Moodle-Kurs</a></abbr>
-<abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2025/kulturgeschichte">Vorläufiger Vorlesungsplan</a></abbr>
-<abbr class="badge"><a
-href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
-target="_blank">Zoom-Link</a></abbr>
-{% endcomment %}
-
 ## Kurzbeschreibung
 
 Dass Kultur eine Geschichte hat, ist alles andere als selbstverständlich. Die
@@ -75,3 +58,24 @@ vom <a
 href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruefungsbueroarchkuwigender"
 target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
 bereitgestellt.
+
+## Weiterführende Links
+
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=249246&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=250077&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
+<abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=143727"
+target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2025/kulturgeschichte">Vorläufiger Vorlesungsplan</a></abbr>
+<abbr class="badge"><a
+href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
+target="_blank">Zoom-Link</a></abbr>
+{% endcomment %}
+
+

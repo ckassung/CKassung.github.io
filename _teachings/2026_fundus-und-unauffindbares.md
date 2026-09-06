@@ -143,7 +143,7 @@ bis 30.6.2026 möglich, die Arbeiten sind dann bis zum 30.9.2026 abzugeben. Für
 den zweiten Prüfungszeitraum ist die Anmeldefrist der 2. bis 13.11.2026, die
 Abgabe kann in diesem Fall bis zum 4.1.2027 erfolgen.
 
-## Links
+## Weiterführende Links
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=242944&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"

@@ -181,7 +181,22 @@ schedule:
         url:
 ---
 
+## Kurzbeschreibung
+
+Filme, in denen gegessen oder über die Zubereitung von Essen diskutiert wird,
+die Ernährung zum Thema haben oder sich mit bestimmten Nahrungsmitteln
+beschäftigen, sind Legion. Aus kulturwissenschaftlicher Perspektive aber ist
+ihnen eines gemein: Sie müssen in historischem Kontext als je unterschiedliche
+Erzählungen, Interpretationen und Ideologien der kulturellen Praxis Essen
+verstanden werden. Sie ermöglichen damit eine Rekonstruktion der Bedeutung von
+Essen innerhalb bestimmter sozio-kultureller Kontexte. Ziel der Ringvorlesung
+»Essen im Film« ist es, das Panorama filmischer Inszenierungen,
+Ästhetisierungen und Codierungen von Ernährungspraktiken in seiner Breite
+aufzuschließen.
+
 {% comment %}
+## Weiterführende Links
+
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=234919&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
@@ -197,16 +212,3 @@ href="{{ site.baseurl }}/blog/2025/kulturgeschichte">Vorläufiger Vorlesungsplan
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
-
-## Kurzbeschreibung
-
-Filme, in denen gegessen oder über die Zubereitung von Essen diskutiert wird,
-die Ernährung zum Thema haben oder sich mit bestimmten Nahrungsmitteln
-beschäftigen, sind Legion. Aus kulturwissenschaftlicher Perspektive aber ist
-ihnen eines gemein: Sie müssen in historischem Kontext als je unterschiedliche
-Erzählungen, Interpretationen und Ideologien der kulturellen Praxis Essen
-verstanden werden. Sie ermöglichen damit eine Rekonstruktion der Bedeutung von
-Essen innerhalb bestimmter sozio-kultureller Kontexte. Ziel der Ringvorlesung
-»Essen im Film« ist es, das Panorama filmischer Inszenierungen,
-Ästhetisierungen und Codierungen von Ernährungspraktiken in seiner Breite
-aufzuschließen.

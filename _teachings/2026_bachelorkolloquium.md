@@ -33,6 +33,8 @@ MA Kuwi Modul 9: Abschlussmodul
 Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme (3 LP)
 erworben werden.
 
+## Weiterführende Links
+
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=241908&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
