@@ -356,11 +356,14 @@ ninja.data = [{
           section: "News",},{id: "news-die-lehrplanung-für-das-kommende-sommersemester-ist-unter-online-geschaltet-bitte-schreiben-sie-sich-bei-interesse-in-die-entsprechenden-moodle-kurse-ein",
           title: 'Die Lehrplanung für das kommende Sommersemester ist unter online geschaltet. Bitte schreiben Sie...',
           description: "",
-          section: "News",},{id: "news-sprechstunden-finden-ab-semesterbeginn-wöchentlich-mittwochs-um-16-uhr-statt-bitte-melden-sie-sich-hierzu-bei-frau-gaedicke-per-e-mail-unter-an-für-formale-fragen-zur-lehre-können-sie-sich-gerne-per-e-mail-an-meine-hilfkraft-patrick-mackens-wenden-aktuelle-informationen-zum-anstehenden-sommersemester-finden-sie-online-auf-dieser-website",
-          title: 'Sprechstunden finden ab Semesterbeginn wöchentlich mittwochs um 16 Uhr statt. Bitte melden Sie...',
-          description: "",
           section: "News",},{id: "news-ankündigung-foregone-landscapes-workshop-about-material-histories-experimental-environments-and-visual-regimes-24-4-2026-von-11-bis-15-uhr-am-exzellenzcluster-matters-of-activity",
           title: 'Ankündigung »Foregone Landscapes. Workshop About Material Histories, Experimental Environments, and Visual Regimes«, 24.4.2026...',
+          description: "",
+          section: "News",},{id: "news-sprechstunden-finden-ab-beginn-des-wintersemesters-wieder-wöchentlich-dienstags-um-16-uhr-statt-bitte-melden-sie-sich-hierzu-bei-frau-gaedicke-per-e-mail-unter-an-für-formale-fragen-zur-lehre-können-sie-sich-gerne-per-e-mail-an-meine-hilfkraft-patrick-mackens-wenden-aktuelle-informationen-zum-anstehenden-sommersemester-finden-sie-online-auf-dieser-website",
+          title: 'Sprechstunden finden ab Beginn des Wintersemesters wieder wöchentlich dienstags um 16 Uhr statt....',
+          description: "",
+          section: "News",},{id: "news-bewerben-sie-sich-gerne-auf-die-am-lehrbereich-kulturtechniken-und-wissensgeschichte-ausgeschriebene-stelle-einer-studentischen-hilfskraft-weitere-informationen-finden-sie-über-das-bewerbungsportal-der-hu",
+          title: 'Bewerben Sie sich gerne auf die am Lehrbereich Kulturtechniken und Wissensgeschichte ausgeschriebene Stelle...',
           description: "",
           section: "News",},{id: "projects-cube-of-physics",
           title: 'Cube of Physics',
@@ -451,32 +454,32 @@ ninja.data = [{
           title: 'Bachelorkolloquium (CO)',
           description: "Begleitendes Kolloquium für Bachelorarbeiten.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/bachelorkolloquium/";
+              window.location.href = "/teachings/2026_bachelorkolloquium/";
             },},{id: "teachings-dark-side-of-the-moon-se",
           title: 'Dark Side of the Moon (SE)',
           description: "Mystifizierung und Rationalisierung des Mondes als europäische Wissens- und Kulturgeschichte.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/dark-side-of-the-moon/";
+              window.location.href = "/teachings/2026_dark-side-of-the-moon/";
             },},{id: "teachings-forschungskolloquium-co",
           title: 'Forschungskolloquium (CO)',
           description: "Begleitendes Kolloquium für Masterarbeiten und Promotionen.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/forschungskolloquium/";
+              window.location.href = "/teachings/2026_forschungskolloquium/";
             },},{id: "teachings-fundus-und-unauffindbares-medienarchäologisches-sammeln-in-globaler-perspektive-rvl",
           title: 'Fundus und Unauffindbares. Medienarchäologisches Sammeln in globaler Perspektive (RVL)',
           description: "Ringvorlesung zur Gegenwart und Zukunft des medienarchäologischen Fundus&#39;.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/fundus-und-unauffindbares/";
+              window.location.href = "/teachings/2026_fundus-und-unauffindbares/";
             },},{id: "teachings-lektürekurs-kulturtechnikforschung-se",
           title: 'Lektürekurs Kulturtechnikforschung (SE)',
           description: "Einführung in die wichtigsten Grundlagentexte der Kulturtechnikforschung.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/lektuerekurs-kulturtechnikforschung/";
+              window.location.href = "/teachings/2026_lektuerekurs-kulturtechnikforschung/";
             },},{id: "teachings-mediengeschichte-berlins-se",
           title: 'Mediengeschichte Berlins (SE)',
           description: "Die Geschichte Berlins als Mediengeschichte seit Mitte des 18. Jahrhunderts in Theorietexten und Standortexkursionen.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/mediengeschichte-berlins/";
+              window.location.href = "/teachings/2026_mediengeschichte-berlins/";
             },},{
         id: 'social-cv',
         title: 'CV',
