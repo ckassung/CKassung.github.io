@@ -12,5 +12,5 @@ unter an.
 
 Für formale Fragen zur Lehre können Sie sich gerne per E-Mail an meine
 Hilfkraft <a href="mailto:patrick.mackens.1@hu-berlin.de">Patrick Mackens</a>
-wenden. Aktuelle Informationen zum anstehenden Sommersemester finden Sie <a
+wenden. Aktuelle Informationen zum kommenden Wintersemester finden Sie <a
 href="{{ site.baseurl }}/teaching">online</a> auf dieser Website.
