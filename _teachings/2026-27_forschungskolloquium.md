@@ -6,7 +6,7 @@ instructor: Prof. Kassung
 year: Akademisches Jahr 2026/27
 term: Wintersemester 2026/27
 location: GEO 47, Raum N.N.
-time: Blockveranstaltung freitags
+time: Blockveranstaltung donnerstags
 course_id: 2026-27_forschungskolloquium
 schedule:
 ---

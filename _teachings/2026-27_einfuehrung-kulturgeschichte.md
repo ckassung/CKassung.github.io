@@ -9,6 +9,74 @@ location: UDL 6, Raum 2091
 time: Di. wöchentlich 14&ndash;16 Uhr
 course_id: 2026-27_einfuehrung-kulturgeschichte
 schedule:
+  - week: 1
+    date: 13.10.2026
+    topic: Einführung
+    description: Geschichte der Kulturgeschichte
+    materials: 
+      - name: Aufgabe 1
+  - week: 2
+    date: 20.10.2026
+    topic: Fakten (1)
+    description: Geschichte der Erde und Menschwerdung
+  - week: 3
+    date: 27.10.2026
+    topic: Fakten (2)
+    description: Elemente, Materialien und Ressourcen
+  - week: 4
+    date: 3.11.2026
+    topic: Fakten (3)
+    description: Naturkräfte und deren Kulturalisierung
+  - week: 5
+    date: 10.11.2026
+    topic: Fakten (4)
+    description: »Medien bestimmen die Lage«
+    materials: 
+      - name: Aufgabe 2
+  - week: 6
+    date: 17.11.2026
+    topic: Reading Week
+    description:
+  - week: 7
+    date: 24.11.2026
+    topic: Quellen (1)
+    description: Bilder&#58; Fallen/Umwelten
+  - week: 8
+    date: 1.12.2026
+    topic: Quellen (2)
+    description: Archive&#58; Oranienburg/Schadstoffe
+  - week: 9
+    date: 8.12.2026
+    topic: Quellen (3)
+    description: Postkarten&#58; Propaganda/Krieg
+  - week: 10
+    date: 15.12.2026
+    topic: Quellen (4)
+    description: Filme&#58; Berlin/Urbanisierung
+  - week: 11
+    date: 5.1.2027
+    topic: Strukturen (1)
+    description: Realitätsverdoppelung
+  - week: 12
+    date: 12.1.2027
+    topic: Strukturen (2)
+    description: Dezentrierung
+  - week: 13
+    date: 19.1.2027
+    topic: Strukturen (3)
+    description: Gleichzeitigkeit des Ungleichzeitigen
+  - week: 14
+    date: 26.1.2027
+    topic: Strukturen (4)
+    description: Zukünftige Gegenwart/Gegenwärtige Zukunft
+  - week: 15
+    date: 2.2.2027
+    topic: Zusammenfassung und offene Fragen
+    description:
+  - week: 16
+    date: 9.2.2027
+    topic: Klausur
+    description:
 ---
 
 ## Kurzbeschreibung
@@ -77,5 +145,4 @@ href="{{ site.baseurl }}/blog/2025/kulturgeschichte">Vorläufiger Vorlesungsplan
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
-
 
