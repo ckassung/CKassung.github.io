@@ -14,25 +14,40 @@ schedule:
     topic: Einführung
     description: Geschichte der Kulturgeschichte
     materials: 
-      - name: Aufgabe 1
+      - name: "Geertz, Clifford (1987): Dichte Beschreibung. Frankfurt am Main: Suhrkamp Verlag."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5481934
+      - name: "Aufgabe 1: Bibliographische Recherche"
+        url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466105
   - week: 2
     date: 20.10.2026
     topic: Fakten (1)
     description: Geschichte der Erde und Menschwerdung
+    materials:
+      - name: "Cowie, Robert H./Bouchet, Philippe/Fontaine, Benoît (2022)&#58; The Sixth Mass Extinction: fact, fiction or speculation. In: Biological Reviews 97, p. 640–663."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5482004
   - week: 3
     date: 27.10.2026
     topic: Fakten (2)
     description: Elemente, Materialien und Ressourcen
+    materials:
+       - name: "Pfaff, Friedrich (1870): Das Wasser. München: Verlag von R. Oldenbourg. S. 93–121"
+         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5482606
   - week: 4
     date: 3.11.2026
     topic: Fakten (3)
     description: Naturkräfte und deren Kulturalisierung
+    materials:
+      - name: "Koyré, Alexandre (1988): Galilei und die wissenschaftliche Revolution des 17. Jahrhunderts. In: Dragstra, Rolf (Hrsg.). Berlin: Verlag Klaus Wagenbach. S. 13–28."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497935
   - week: 5
     date: 10.11.2026
     topic: Fakten (4)
     description: »Medien bestimmen die Lage«
-    materials: 
-      - name: Aufgabe 2
+    materials:
+      - name: "Kittler, Friedrich A. (2004): Geschichte der Kommunikationstechniken. In: Posner, Roland u.a. (Hrsg.): Semiotik/Semiotics: Ein internationales Handbuch zu den zeichentheoretischen Grundlagen von Natur und Kultur. Berlin: de Gruyter. S. 3345–3357." 
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497955
+      - name: "Aufgabe 2: KI-Recherche"
+        url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466047
   - week: 6
     date: 17.11.2026
     topic: Reading Week
@@ -41,18 +56,32 @@ schedule:
     date: 24.11.2026
     topic: Quellen (1)
     description: Bilder&#58; Fallen/Umwelten
+    materials:
+      - name: "Le Guin, Ursula K. (2019): The Carrier Bag Theory of Fiction. Ignota Books."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497963
   - week: 8
     date: 1.12.2026
     topic: Quellen (2)
     description: Archive&#58; Oranienburg/Schadstoffe
+    materials:
+      - name: "Weber, Heike u.a. (2024): Altlasten als (industrie)kulturelles Erbe? In: Technikgeschichte 91, S. 339–353."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497966
   - week: 9
     date: 8.12.2026
     topic: Quellen (3)
     description: Postkarten&#58; Propaganda/Krieg
+    materials:
+      - name: "Axster, Felix (2014): Koloniales Spektakel in 9x14. Bielefeld: transcript Verlag."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497972
   - week: 10
     date: 15.12.2026
     topic: Quellen (4)
     description: Filme&#58; Berlin/Urbanisierung
+    materials:
+      - name: "Simmel, Georg (2006): Die Großstädte und das Geistesleben. Frankfurt am Main: Suhrkamp Verlag."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497967
+      - name: "Aufgabe 3: Forschungsthese"
+        url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466187
   - week: 11
     date: 5.1.2027
     topic: Strukturen (1)
@@ -106,26 +135,33 @@ Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
 
 ## Modulzuordnung
 
-BA-Modul 1: Texte -- Bilder -- Dinge
+<a href="https://kulturwissenschaft-berlin.org/studium/#ba-kuwi"
+target="_blank">BA-Modul 1: Texte -- Bilder -- Dinge</a>
 
 ## Prüfungen
 
-Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP) erworben und
-zusätzlich eine Modulabschlussprüfung durch eine Klausur (4 LP) abgelegt
-werden. Im ÜWP-Bereich ist es möglich, durch Extraleistungen weitere LP nach
-individueller Absprache (1 LP durch frei gewählte Zusatzlektüre mit einseitigem
-Kurzbericht, mehr LP in Form einer schriftlichen oder multimedialen Arbeit
-entsprechend Aufwand) zu erwerben. Die Absprache erfolgt jeweils nach den
-Vorlesungen oder innerhalb der Sprechstunde. 
+Ein Teilnahmeschein kann durch den regelmäßigen Besuch der Vorlesung erworben
+werden (3 LP). Im ÜWP-Bereich ist es möglich, im Rahmen des Vorlesungsbesuchs
+durch eine frei gewählte Lektüre mit einseitigem Kurzbericht einen weiteren
+Leistungspunkt zu erwerben (4 LP). In Ausnahmefällen können zusätzliche
+Leistungspunkte durch weitere Extraleistungen in Form einer schriftlichen oder
+multimedialen Arbeit entsprechend Aufwand vereinbart werden.
+
+Die Modulabschlussprüfung erfolgt durch drei vorlesungsbegleitende
+Teilleistungen sowie eine Klausur in der letzten Vorlesungswoche (4 LP). Für
+die Teilleistungen werden in Moodle drei Aufgaben freigeschaltet, die jeweils
+innerhalb von 14 Tagen absolviert werden müssen. Mit den Aufgaben sollen
+typische Arbeitsabläufe des kulturwissenschatlichen Arbeitens geübt werden. In
+der Klausur besteht in einem Kurzessay über ein auszuwählendes Thema der
+Vorlesung.
 
 ## Prüfungszeiträume
 
-Die Klausur im ersten Prüfungszeitraum findet am 9.2.2027
-zur gewohnten Vorlesungszeit statt. Alle weiterführenden Informationen werden
-vom <a
-href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruefungsbueroarchkuwigender"
-target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
-bereitgestellt.
+Die Klausur im ersten Prüfungszeitraum findet am 9.2.2027 zur gewohnten
+Vorlesungszeit statt. Alle weiterführenden Informationen sind auf der Webseite
+des Fachs <a href="https://kulturwissenschaft-berlin.org/studium/#pruefungen"
+target="_blank">Kulturwissenschaft unter der Rubrik Studium</a> zu finden.
+
 
 ## Weiterführende Links
 
