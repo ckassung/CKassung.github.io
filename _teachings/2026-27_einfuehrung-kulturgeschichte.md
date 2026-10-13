@@ -18,6 +18,8 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5481934
       - name: "Aufgabe 1: Bibliographische Recherche"
         url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466105
+      - name: "Script: Geschichte der Kulturgeschichte"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5501630
   - week: 2
     date: 20.10.2026
     topic: Fakten (1)
@@ -135,8 +137,21 @@ Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort
 
 ## Modulzuordnung
 
-<a href="https://kulturwissenschaft-berlin.org/studium/#ba-kuwi"
-target="_blank">BA-Modul 1: Texte -- Bilder -- Dinge</a>
+Die Vorlesung ist dem <a
+href="https://kulturwissenschaft-berlin.org/studium/#ba-kuwi"
+target="_blank">BA-Modul 1: Texte -- Bilder -- Dinge</a> (10 LP) zugeordnet. In
+diesem Modul erlernen Sie am Beispiel konkreter Objekte (Texte, Bilder, Dinge)
+der Kulturgeschichte, diese entsprechend ihrer Materialität und Medialität
+historisch und systematisch genau zu erfassen, zu differenzieren, zu
+klassifizieren, zu analysieren und zu interpretieren. Zugleich erhalten Sie
+einen systematischen Überblick über das Spektrum kulturwissenschaftlich
+relevanter Themen und Forschungsgegenstände.
+
+Zu diesem Modul gehören in diesem Semester desweiteren drei Seminare
+(Perraudin, Erdogan, Platt). Um das Modul erfolgreich abzuschließen, ist eine
+erfolgreiche Teilnahme an der Vorlesung und an einem der Seminare notwendig.
+Die Modulabschlussprüfung kann dann entweder innerhalb der Vorlesung oder im
+Seminar absolviert werden.
 
 ## Prüfungen
 
@@ -149,11 +164,10 @@ multimedialen Arbeit entsprechend Aufwand vereinbart werden.
 
 Die Modulabschlussprüfung erfolgt durch drei vorlesungsbegleitende
 Teilleistungen sowie eine Klausur in der letzten Vorlesungswoche (4 LP). Für
-die Teilleistungen werden in Moodle drei Aufgaben freigeschaltet, die jeweils
-innerhalb von 14 Tagen absolviert werden müssen. Mit den Aufgaben sollen
-typische Arbeitsabläufe des kulturwissenschatlichen Arbeitens geübt werden. In
-der Klausur besteht in einem Kurzessay über ein auszuwählendes Thema der
-Vorlesung.
+die Teilleistungen werden drei Aufgaben freigeschaltet, die jeweils innerhalb
+von 14 Tagen absolviert werden müssen. Mit den Aufgaben sollen typische
+Arbeitsabläufe des kulturwissenschaftlichen Arbeitens geübt werden. In der
+Klausur besteht in einem Kurzessay über ein auszuwählendes Thema der Vorlesung.
 
 ## Prüfungszeiträume
 
