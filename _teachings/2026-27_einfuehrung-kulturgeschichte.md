@@ -18,8 +18,10 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5481934
       - name: "Aufgabe 1: Bibliographische Recherche"
         url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466105
-      - name: "Script: Geschichte der Kulturgeschichte"
+      - name: "Skript zur Vorlesung"
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5501630
+      - name: "Bilder zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5522606
   - week: 2
     date: 20.10.2026
     topic: Fakten (1)
