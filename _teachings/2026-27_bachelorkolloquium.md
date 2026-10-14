@@ -27,7 +27,7 @@ Präsenzveranstaltung statt und beginnt am 14.10.2026.
 Die Einschreibung in die Bachelor-Kolloquien erfolgt durch eine
 Vorabregistrierung über den Moodle-Kurs <a
 href="https://moodle.hu-berlin.de/course/section.php?id=1263716"
-target="_blank">»BA-Abschlussmodul«</a> mit dem Kurs-Schlüssel »Finale«. Bitte
+target="_blank">»BA-Abschlussmodul«</a> mit dem Kurs-Schlüssel »Impromptu«. Bitte
 tragen Sie sich hier bis zum 18.  September 2026 mit Ihren Präferenzen für die
 Erst- und Zweitbetreuung sowie &ndash; falls bereits vorhanden &ndash;
 möglichen Themenideen ein. Sie erhalten dann bis zum 7. Oktober 2026 die
