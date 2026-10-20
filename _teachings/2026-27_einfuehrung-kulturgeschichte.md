@@ -29,6 +29,12 @@ schedule:
     materials:
       - name: "Cowie, Robert H./Bouchet, Philippe/Fontaine, Benoît (2022)&#58; The Sixth Mass Extinction: fact, fiction or speculation. In: Biological Reviews 97, p. 640–663."
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5482004
+      - name: "Skript 1 zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5538835
+      - name: "Skript 2 zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5539149
+      - name: "Bilder zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5539161
   - week: 3
     date: 27.10.2026
     topic: Fakten (2)
