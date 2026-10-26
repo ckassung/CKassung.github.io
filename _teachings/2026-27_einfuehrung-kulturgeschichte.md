@@ -208,3 +208,6 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
+Alle weiterführenden Fragen organisatorischer Art oder zu Formalia der
+Vorlesung richten Sie bitte an meine Hilfskraft <a
+href="mailto:patrick.mackens.1@hu-berlin.de">Patrick Mackens</a>.
