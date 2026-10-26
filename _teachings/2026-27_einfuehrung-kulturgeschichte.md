@@ -42,6 +42,10 @@ schedule:
     materials:
        - name: "Pfaff, Friedrich (1870): Das Wasser. München: Verlag von R. Oldenbourg. S. 93–121"
          url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5482606
+       - name: "Skript zur Vorlesung"
+         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5548018
+       - name: "Bilder zur Vorlesung"
+         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5548028
   - week: 4
     date: 3.11.2026
     topic: Fakten (3)
