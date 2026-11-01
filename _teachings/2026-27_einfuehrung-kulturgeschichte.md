@@ -53,6 +53,10 @@ schedule:
     materials:
       - name: "Koyré, Alexandre (1988): Galilei und die wissenschaftliche Revolution des 17. Jahrhunderts. In: Dragstra, Rolf (Hrsg.). Berlin: Verlag Klaus Wagenbach. S. 13–28."
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497935
+      - name: "Skript zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5554611
+      - name: "Bilder zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5554592
   - week: 5
     date: 10.11.2026
     topic: Fakten (4)
