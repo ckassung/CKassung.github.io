@@ -66,6 +66,10 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497955
       - name: "Aufgabe 2: KI-Recherche"
         url: https://moodle.hu-berlin.de/mod/assign/view.php?id=5466047
+      - name: "Skript zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5564039
+      - name: "Bilder zur Vorlesung, Teil 1"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5568733
   - week: 6
     date: 17.11.2026
     topic: Reading Week
