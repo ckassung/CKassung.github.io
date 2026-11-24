@@ -70,6 +70,8 @@ schedule:
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5564039
       - name: "Bilder zur Vorlesung, Teil 1"
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5568733
+      - name: "Bilder zur Vorlesung, Teil 2"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5568734
   - week: 6
     date: 17.11.2026
     topic: Reading Week
@@ -81,6 +83,10 @@ schedule:
     materials:
       - name: "Jansen, Gemma C. M. (2017): Water and Water Technology in Roman Gardens. In: Jashemski, Wilhelmina F. et al. (eds.). Cambridge MA: Cambridge University Press. p. 402–431."
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5576877
+      - name: "Skript zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5576896
+      - name: "Bilder zur Vorlesung"
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5576907
   - week: 8
     date: 1.12.2026
     topic: Quellen (2)
