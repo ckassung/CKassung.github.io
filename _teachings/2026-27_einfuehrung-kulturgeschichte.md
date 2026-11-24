@@ -77,14 +77,14 @@ schedule:
   - week: 7
     date: 24.11.2026
     topic: Quellen (1)
-    description: Bilder&#58; Fallen/Umwelten
+    description: Steine&#58; Pompeji/Resilienz
     materials:
-      - name: "Le Guin, Ursula K. (2019): The Carrier Bag Theory of Fiction. Ignota Books."
-        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497963
+      - name: "Jansen, Gemma C. M. (2017): Water and Water Technology in Roman Gardens. In: Jashemski, Wilhelmina F. et al. (eds.). Cambridge MA: Cambridge University Press. p. 402–431."
+        url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5576877
   - week: 8
     date: 1.12.2026
     topic: Quellen (2)
-    description: Archive&#58; Oranienburg/Schadstoffe
+    description: Archive&#58; Oranienburg/Umwelt
     materials:
       - name: "Weber, Heike u.a. (2024): Altlasten als (industrie)kulturelles Erbe? In: Technikgeschichte 91, S. 339–353."
         url: https://moodle.hu-berlin.de/mod/resource/view.php?id=5497966
